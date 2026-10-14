@@ -1,0 +1,19 @@
+{
+  "method": "Native ERC/DRC and design checks on the main project after applying the approved J3 edge-placement revision with KiCad closed. File checks only; no assembled hardware or bench measurements.",
+  "file_sha256": {
+    "poc_lev.kicad_pro": "3afa30620d58a60edaa66099d0bbdb0bebad0fc9ba6750593d3d95640ba44ced",
+    "poc_lev.kicad_pcb": "3d6c70f6fd4c507ba56ff5f6d2e8853c98d8226be8377f9bbadb38beab7cc458",
+    "poc_lev.kicad_sch": "53213fa248c9735fcb17de750a22ffc4e0646e78d60e451492e709c56845e3a3",
+    "poc_lev.kicad_sym": "fb4719f638afcfcedec025c6b4d63a09f68e58e453115624537d89961e448337",
+    "poc_lev.kicad_dru": "e5617f2d15de349e71c19dc7bb67f1b6ccfc6c785f43ae632990705dcbdecdb8",
+    "sym-lib-table": "e3e991e2fe903113ad50017d3d9aa059e36e18daeedd29880e24950ae3ec110c",
+    "fp-lib-table": "b738bed50768305c819c8c92cc660a3f26abcb1b196b12e68939da4c9fc626e0",
+    "BOM.csv": "c7b13dfe8b086264231ed397aa879c1e6bdb75abe39da3f0d837c6f3137281b8"
+  },
+  "erc_errors": 0,
+  "erc_warnings": 0,
+  "drc_violations": 0,
+  "unconnected_items": 0,
+  "validated_at": "2026-09-06T21:48:02.112021+00:00",
+  "hardware_tests_run": false
+}

@@ -1,0 +1,1 @@
+(fp_lib_table (version 7) (lib (name "poc_lev") (type "KiCad") (uri "${KIPRJMOD}/lib.pretty") (options "") (descr "Project local footprints")))

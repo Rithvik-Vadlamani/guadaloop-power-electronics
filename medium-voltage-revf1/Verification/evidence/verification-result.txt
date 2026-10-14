@@ -1,0 +1,5 @@
+{
+  "valid": true,
+  "issues": [],
+  "note": "Hashes detect changes; they are not cryptographic reviewer identity or design approval."
+}

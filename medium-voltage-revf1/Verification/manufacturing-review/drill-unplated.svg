@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="154mm" height="114mm" viewBox="18 -132 154 114" style="background-color:white" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g transform="translate(18.0 -18.0) scale(1 -1) translate(-18.0 132.0)">
+    <circle cx="25.0" cy="-25.0" r="1.6" fill="black"/>
+    <circle cx="25.0" cy="-125.0" r="1.6" fill="black"/>
+    <circle cx="165.0" cy="-25.0" r="1.6" fill="black"/>
+    <circle cx="165.0" cy="-125.0" r="1.6" fill="black"/>
+  </g>
+</svg>

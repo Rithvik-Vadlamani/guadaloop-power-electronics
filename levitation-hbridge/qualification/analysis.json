@@ -1,0 +1,546 @@
+{
+  "status": "ANALYSIS_ONLY_NOT_HARDWARE_QUALIFIED",
+  "hardware_measurements_performed": 0,
+  "models": {
+    "shutdown": "Coil connected, all gates off, bus supply cannot absorb regeneration, no TVS action, R=2 ohm assumed, 1 V per conducting body diode assumed, constant L/C; excludes wiring inductance/ESR/ESL and temperature dependence.",
+    "thermal": "Extrapolates source-brief switching loss, not a transistor switching simulation. Rds=6.72 milliohm from brief; hot-value scaling is not a guaranteed datasheet maximum.",
+    "ripple": "Constant load current, active/freewheel unipolar PWM, source supplies only DC average, capacitor bank carries all AC bus ripple, equal sharing assumed."
+  },
+  "solver_checks": "PASS: lossless energy identity, dissipative energy conservation, step refinement",
+  "shutdown_sweep": [
+    {
+      "initial_bus_V": 60,
+      "initial_current_magnitude_A": 10,
+      "coil_L_H": 0.00925,
+      "coil_R_ohm_assumed": 2,
+      "bulk_C_F": 0.00141,
+      "ideal_lossless_peak_V": 65.23824314613574,
+      "peak_bus_V": 64.24695749734845,
+      "decay_ms": 1.2415366331484519,
+      "coil_heat_J": 0.07851513875287408,
+      "diode_heat_J": 0.01197642014252274,
+      "added_cap_energy_J": 0.37200844110459874,
+      "energy_residual_J": -4.440892098500626e-15
+    },
+    {
+      "initial_bus_V": 60,
+      "initial_current_magnitude_A": 16,
+      "coil_L_H": 0.00925,
+      "coil_R_ohm_assumed": 2,
+      "bulk_C_F": 0.00141,
+      "ideal_lossless_peak_V": 72.6597042666255,
+      "peak_bus_V": 69.5764366246212,
+      "decay_ms": 1.7672910351770454,
+      "coil_heat_J": 0.2821736726857232,
+      "diode_heat_J": 0.0270055512814316,
+      "added_cap_energy_J": 0.87482077603285,
+      "energy_residual_J": 4.884981308350689e-15
+    },
+    {
+      "initial_bus_V": 60,
+      "initial_current_magnitude_A": 30,
+      "coil_L_H": 0.00925,
+      "coil_R_ohm_assumed": 2,
+      "bulk_C_F": 0.00141,
+      "ideal_lossless_peak_V": 97.4897703307836,
+      "peak_bus_V": 85.88753946741997,
+      "decay_ms": 2.571382822765274,
+      "coil_heat_J": 1.426945186485697,
+      "diode_heat_J": 0.07300286129812435,
+      "added_cap_energy_J": 2.6625519522161745,
+      "energy_residual_J": -4.440892098500626e-15
+    },
+    {
+      "initial_bus_V": 60,
+      "initial_current_magnitude_A": 10,
+      "coil_L_H": 0.00925,
+      "coil_R_ohm_assumed": 2,
+      "bulk_C_F": 0.001128,
+      "ideal_lossless_peak_V": 66.48334724570438,
+      "peak_bus_V": 65.27234780228112,
+      "decay_ms": 1.2297543263269588,
+      "coil_heat_J": 0.07809520873927416,
+      "diode_heat_J": 0.011894416641946133,
+      "added_cap_energy_J": 0.3725103746187814,
+      "energy_residual_J": 1.6653345369377348e-15
+    },
+    {
+      "initial_bus_V": 60,
+      "initial_current_magnitude_A": 16,
+      "coil_L_H": 0.00925,
+      "coil_R_ohm_assumed": 2,
+      "bulk_C_F": 0.001128,
+      "ideal_lossless_peak_V": 75.49364728334328,
+      "peak_bus_V": 71.81162437114546,
+      "decay_ms": 1.7345329548213706,
+      "coil_heat_J": 0.27925607673880787,
+      "diode_heat_J": 0.026647024581304163,
+      "added_cap_energy_J": 0.8780968986798854,
+      "energy_residual_J": -2.4424906541753444e-15
+    },
+    {
+      "initial_bus_V": 60,
+      "initial_current_magnitude_A": 30,
+      "coil_L_H": 0.00925,
+      "coil_R_ohm_assumed": 2,
+      "bulk_C_F": 0.001128,
+      "ideal_lossless_peak_V": 104.78701803628238,
+      "peak_bus_V": 91.51826322275818,
+      "decay_ms": 2.4779502404137173,
+      "coil_heat_J": 1.397960626302586,
+      "diode_heat_J": 0.07110520183054243,
+      "added_cap_energy_J": 2.6934341718668695,
+      "energy_residual_J": -1.7763568394002505e-15
+    },
+    {
+      "initial_bus_V": 60,
+      "initial_current_magnitude_A": 10,
+      "coil_L_H": 0.01,
+      "coil_R_ohm_assumed": 2,
+      "bulk_C_F": 0.00141,
+      "ideal_lossless_peak_V": 65.64464835884209,
+      "peak_bus_V": 64.58101410589762,
+      "decay_ms": 1.3380229795968603,
+      "coil_heat_J": 0.08473283524433818,
+      "diode_heat_J": 0.01291845977863117,
+      "added_cap_energy_J": 0.40234870497703423,
+      "energy_residual_J": 3.552713678800501e-15
+    },
+    {
+      "initial_bus_V": 60,
+      "initial_current_magnitude_A": 16,
+      "coil_L_H": 0.01,
+      "coil_R_ohm_assumed": 2,
+      "bulk_C_F": 0.00141,
+      "ideal_lossless_peak_V": 73.59077956428666,
+      "peak_bus_V": 70.30751814515287,
+      "decay_ms": 1.8988406408705134,
+      "coil_heat_J": 0.30401408788031953,
+      "diode_heat_J": 0.029067201169330904,
+      "added_cap_energy_J": 0.9469187109503548,
+      "energy_residual_J": 5.329070518200751e-15
+    },
+    {
+      "initial_bus_V": 60,
+      "initial_current_magnitude_A": 30,
+      "coil_L_H": 0.01,
+      "coil_R_ohm_assumed": 2,
+      "bulk_C_F": 0.00141,
+      "ideal_lossless_peak_V": 99.91485737068464,
+      "peak_bus_V": 87.74225959436721,
+      "decay_ms": 2.7456731283748095,
+      "coil_heat_J": 1.5321804242425374,
+      "diode_heat_J": 0.07823317205611545,
+      "added_cap_energy_J": 2.8895864037013546,
+      "energy_residual_J": 7.105427357601002e-15
+    },
+    {
+      "initial_bus_V": 60,
+      "initial_current_magnitude_A": 10,
+      "coil_L_H": 0.01,
+      "coil_R_ohm_assumed": 2,
+      "bulk_C_F": 0.001128,
+      "ideal_lossless_peak_V": 66.98152598063913,
+      "peak_bus_V": 65.68420919530774,
+      "decay_ms": 1.3244215029482664,
+      "coil_heat_J": 0.08424617364168234,
+      "diode_heat_J": 0.012823575944614241,
+      "added_cap_energy_J": 0.4029302504137042,
+      "energy_residual_J": 7.771561172376096e-16
+    },
+    {
+      "initial_bus_V": 60,
+      "initial_current_magnitude_A": 16,
+      "coil_L_H": 0.01,
+      "coil_R_ohm_assumed": 2,
+      "bulk_C_F": 0.001128,
+      "ideal_lossless_peak_V": 76.61268528187281,
+      "peak_bus_V": 72.70221061028427,
+      "decay_ms": 1.8614585960789418,
+      "coil_heat_J": 0.3006589676843129,
+      "diode_heat_J": 0.02865618713680141,
+      "added_cap_energy_J": 0.9506848451788817,
+      "energy_residual_J": -3.9968028886505635e-15
+    },
+    {
+      "initial_bus_V": 60,
+      "initial_current_magnitude_A": 30,
+      "coil_L_H": 0.01,
+      "coil_R_ohm_assumed": 2,
+      "bulk_C_F": 0.001128,
+      "ideal_lossless_peak_V": 107.60447669244675,
+      "peak_bus_V": 93.73043272554585,
+      "decay_ms": 2.641376806839306,
+      "coil_heat_J": 1.499341917101373,
+      "diode_heat_J": 0.0760958562288314,
+      "added_cap_energy_J": 2.924562226669796,
+      "energy_residual_J": 8.881784197001252e-16
+    },
+    {
+      "initial_bus_V": 70,
+      "initial_current_magnitude_A": 10,
+      "coil_L_H": 0.00925,
+      "coil_R_ohm_assumed": 2,
+      "bulk_C_F": 0.00141,
+      "ideal_lossless_peak_V": 74.53877091013996,
+      "peak_bus_V": 73.76964730475626,
+      "decay_ms": 1.098411950382171,
+      "coil_heat_J": 0.06978718585556004,
+      "diode_heat_J": 0.010630405399412481,
+      "added_cap_energy_J": 0.3820824087450335,
+      "energy_residual_J": 5.995204332975845e-15
+    },
+    {
+      "initial_bus_V": 70,
+      "initial_current_magnitude_A": 16,
+      "coil_L_H": 0.00925,
+      "coil_R_ohm_assumed": 2,
+      "bulk_C_F": 0.00141,
+      "ideal_lossless_peak_V": 81.11370182720965,
+      "peak_bus_V": 78.63564560806736,
+      "decay_ms": 1.58883060023497,
+      "coil_heat_J": 0.2547343234459754,
+      "diode_heat_J": 0.024352520614749736,
+      "added_cap_energy_J": 0.9049131559392828,
+      "energy_residual_J": 7.993605777301127e-15
+    },
+    {
+      "initial_bus_V": 70,
+      "initial_current_magnitude_A": 30,
+      "coil_L_H": 0.00925,
+      "coil_R_ohm_assumed": 2,
+      "bulk_C_F": 0.00141,
+      "ideal_lossless_peak_V": 103.94351985164316,
+      "peak_bus_V": 93.98343102364612,
+      "decay_ms": 2.378672364737879,
+      "coil_heat_J": 1.322182583094915,
+      "diode_heat_J": 0.06763327548668217,
+      "added_cap_energy_J": 2.772684141418396,
+      "energy_residual_J": -6.217248937900877e-15
+    },
+    {
+      "initial_bus_V": 70,
+      "initial_current_magnitude_A": 10,
+      "coil_L_H": 0.00925,
+      "coil_R_ohm_assumed": 2,
+      "bulk_C_F": 0.001128,
+      "ideal_lossless_peak_V": 75.63091603962567,
+      "peak_bus_V": 74.68652933046528,
+      "decay_ms": 1.0901876636731123,
+      "coil_heat_J": 0.06949138765569951,
+      "diode_heat_J": 0.010572810169529592,
+      "added_cap_energy_J": 0.38243580217477396,
+      "energy_residual_J": 3.0531133177191805e-15
+    },
+    {
+      "initial_bus_V": 70,
+      "initial_current_magnitude_A": 16,
+      "coil_L_H": 0.00925,
+      "coil_R_ohm_assumed": 2,
+      "bulk_C_F": 0.001128,
+      "ideal_lossless_peak_V": 83.66176414672263,
+      "peak_bus_V": 80.6769025572552,
+      "decay_ms": 1.5646980001355033,
+      "coil_heat_J": 0.252570797915509,
+      "diode_heat_J": 0.02408709216916753,
+      "added_cap_energy_J": 0.9073421099153279,
+      "energy_residual_J": 4.6629367034256575e-15
+    },
+    {
+      "initial_bus_V": 70,
+      "initial_current_magnitude_A": 30,
+      "coil_L_H": 0.00925,
+      "coil_R_ohm_assumed": 2,
+      "bulk_C_F": 0.001128,
+      "ideal_lossless_peak_V": 110.81660141394055,
+      "peak_bus_V": 99.29914262495983,
+      "decay_ms": 2.303179303074986,
+      "coil_heat_J": 1.2987808087446917,
+      "diode_heat_J": 0.06609886576190946,
+      "added_cap_energy_J": 2.7976203254933925,
+      "energy_residual_J": -6.217248937900877e-15
+    },
+    {
+      "initial_bus_V": 70,
+      "initial_current_magnitude_A": 10,
+      "coil_L_H": 0.01,
+      "coil_R_ohm_assumed": 2,
+      "bulk_C_F": 0.00141,
+      "ideal_lossless_peak_V": 74.89472516910672,
+      "peak_bus_V": 74.06808030998782,
+      "decay_ms": 1.1845625197719782,
+      "coil_heat_J": 0.07534124635703773,
+      "diode_heat_J": 0.011471986474165601,
+      "added_cap_energy_J": 0.41318676716879815,
+      "energy_residual_J": 1.4432899320127035e-15
+    },
+    {
+      "initial_bus_V": 70,
+      "initial_current_magnitude_A": 16,
+      "coil_L_H": 0.01,
+      "coil_R_ohm_assumed": 2,
+      "bulk_C_F": 0.00141,
+      "ideal_lossless_peak_V": 81.94878179008784,
+      "peak_bus_V": 79.3023392250439,
+      "decay_ms": 1.7090371407219214,
+      "coil_heat_J": 0.2746203937578002,
+      "diode_heat_J": 0.026232596614623793,
+      "added_cap_energy_J": 0.9791470096275748,
+      "energy_residual_J": -1.3322676295501878e-15
+    },
+    {
+      "initial_bus_V": 70,
+      "initial_current_magnitude_A": 30,
+      "coil_L_H": 0.01,
+      "coil_R_ohm_assumed": 2,
+      "bulk_C_F": 0.00141,
+      "ideal_lossless_peak_V": 106.22136660486089,
+      "peak_bus_V": 95.73136359919047,
+      "decay_ms": 2.5440502526471107,
+      "coil_heat_J": 1.420969301175184,
+      "diode_heat_J": 0.07256244534971731,
+      "added_cap_energy_J": 3.0064682534750893,
+      "energy_residual_J": -8.881784197001252e-15
+    },
+    {
+      "initial_bus_V": 70,
+      "initial_current_magnitude_A": 10,
+      "coil_L_H": 0.01,
+      "coil_R_ohm_assumed": 2,
+      "bulk_C_F": 0.001128,
+      "ideal_lossless_peak_V": 76.06921074058174,
+      "peak_bus_V": 75.05549897704516,
+      "decay_ms": 1.1750438458679804,
+      "coil_heat_J": 0.0749978436527971,
+      "diode_heat_J": 0.011405205692214105,
+      "added_cap_energy_J": 0.41359695065498,
+      "energy_residual_J": -8.826273045769994e-15
+    },
+    {
+      "initial_bus_V": 70,
+      "initial_current_magnitude_A": 16,
+      "coil_L_H": 0.01,
+      "coil_R_ohm_assumed": 2,
+      "bulk_C_F": 0.001128,
+      "ideal_lossless_peak_V": 84.67292097299638,
+      "peak_bus_V": 81.49258546252763,
+      "decay_ms": 1.6813810018064048,
+      "coil_heat_J": 0.2721253294493394,
+      "diode_heat_J": 0.02592727280346237,
+      "added_cap_energy_J": 0.9819473977471963,
+      "energy_residual_J": -1.9984014443252818e-15
+    },
+    {
+      "initial_bus_V": 70,
+      "initial_current_magnitude_A": 30,
+      "coil_L_H": 0.01,
+      "coil_R_ohm_assumed": 2,
+      "bulk_C_F": 0.001128,
+      "ideal_lossless_peak_V": 113.48446327253488,
+      "peak_bus_V": 101.39469810913525,
+      "decay_ms": 2.45930533896852,
+      "coil_heat_J": 1.3943545312473236,
+      "diode_heat_J": 0.07082643893420902,
+      "added_cap_energy_J": 3.034819029818469,
+      "energy_residual_J": 1.7763568394002505e-15
+    }
+  ],
+  "thermal_budget": [
+    {
+      "current_A": 10,
+      "frequency_Hz": 16000,
+      "assumed_duty": 0.75,
+      "conduction_W": 0.504,
+      "switching_W": 1.0666666666666667,
+      "total_per_hard_switching_FET_W": 1.5706666666666667,
+      "assumed_ambient_C": 40,
+      "proposed_junction_target_C": 125,
+      "assumed_case_sink_C_per_W": 0.5,
+      "required_sink_ambient_max_C_per_W": 53.27714770797962
+    },
+    {
+      "current_A": 16,
+      "frequency_Hz": 16000,
+      "assumed_duty": 0.75,
+      "conduction_W": 1.29024,
+      "switching_W": 1.7066666666666668,
+      "total_per_hard_switching_FET_W": 2.996906666666667,
+      "assumed_ambient_C": 40,
+      "proposed_junction_target_C": 125,
+      "assumed_case_sink_C_per_W": 0.5,
+      "required_sink_ambient_max_C_per_W": 27.522578302961275
+    },
+    {
+      "current_A": 30,
+      "frequency_Hz": 16000,
+      "assumed_duty": 0.75,
+      "conduction_W": 4.536,
+      "switching_W": 3.2,
+      "total_per_hard_switching_FET_W": 7.736,
+      "assumed_ambient_C": 40,
+      "proposed_junction_target_C": 125,
+      "assumed_case_sink_C_per_W": 0.5,
+      "required_sink_ambient_max_C_per_W": 10.147590486039297
+    },
+    {
+      "current_A": 10,
+      "frequency_Hz": 32000,
+      "assumed_duty": 0.75,
+      "conduction_W": 0.504,
+      "switching_W": 2.1333333333333333,
+      "total_per_hard_switching_FET_W": 2.6373333333333333,
+      "assumed_ambient_C": 40,
+      "proposed_junction_target_C": 125,
+      "assumed_case_sink_C_per_W": 0.5,
+      "required_sink_ambient_max_C_per_W": 31.38952477249747
+    },
+    {
+      "current_A": 16,
+      "frequency_Hz": 32000,
+      "assumed_duty": 0.75,
+      "conduction_W": 1.29024,
+      "switching_W": 3.4133333333333336,
+      "total_per_hard_switching_FET_W": 4.703573333333334,
+      "assumed_ambient_C": 40,
+      "proposed_junction_target_C": 125,
+      "assumed_case_sink_C_per_W": 0.5,
+      "required_sink_ambient_max_C_per_W": 17.231367017416545
+    },
+    {
+      "current_A": 30,
+      "frequency_Hz": 32000,
+      "assumed_duty": 0.75,
+      "conduction_W": 4.536,
+      "switching_W": 6.4,
+      "total_per_hard_switching_FET_W": 10.936,
+      "assumed_ambient_C": 40,
+      "proposed_junction_target_C": 125,
+      "assumed_case_sink_C_per_W": 0.5,
+      "required_sink_ambient_max_C_per_W": 6.9324945135332845
+    }
+  ],
+  "conditional_ripple": [
+    {
+      "current_A": 10,
+      "effective_active_duty": 0.5,
+      "conditional_bank_ripple_A_rms": 5.0,
+      "ideal_equal_share_each_A_rms": 1.6666666666666667
+    },
+    {
+      "current_A": 10,
+      "effective_active_duty": 0.75,
+      "conditional_bank_ripple_A_rms": 4.330127018922193,
+      "ideal_equal_share_each_A_rms": 1.4433756729740643
+    },
+    {
+      "current_A": 16,
+      "effective_active_duty": 0.5,
+      "conditional_bank_ripple_A_rms": 8.0,
+      "ideal_equal_share_each_A_rms": 2.6666666666666665
+    },
+    {
+      "current_A": 16,
+      "effective_active_duty": 0.75,
+      "conditional_bank_ripple_A_rms": 6.928203230275509,
+      "ideal_equal_share_each_A_rms": 2.309401076758503
+    },
+    {
+      "current_A": 30,
+      "effective_active_duty": 0.5,
+      "conditional_bank_ripple_A_rms": 15.0,
+      "ideal_equal_share_each_A_rms": 5.0
+    },
+    {
+      "current_A": 30,
+      "effective_active_duty": 0.75,
+      "conditional_bank_ripple_A_rms": 12.990381056766578,
+      "ideal_equal_share_each_A_rms": 4.330127018922193
+    }
+  ],
+  "lossless_energy_thresholds": [
+    {
+      "initial_bus_V": 60,
+      "bulk_C_F": 0.00141,
+      "coil_L_H": 0.01,
+      "voltage_ceiling_V": 80,
+      "lossless_current_for_ceiling_A": 19.86957473123167
+    },
+    {
+      "initial_bus_V": 60,
+      "bulk_C_F": 0.00141,
+      "coil_L_H": 0.01,
+      "voltage_ceiling_V": 90,
+      "lossless_current_for_ceiling_A": 25.18928343562
+    },
+    {
+      "initial_bus_V": 60,
+      "bulk_C_F": 0.00141,
+      "coil_L_H": 0.01,
+      "voltage_ceiling_V": 100,
+      "lossless_current_for_ceiling_A": 30.03997336882974
+    },
+    {
+      "initial_bus_V": 60,
+      "bulk_C_F": 0.001128,
+      "coil_L_H": 0.01,
+      "voltage_ceiling_V": 80,
+      "lossless_current_for_ceiling_A": 17.77188791321845
+    },
+    {
+      "initial_bus_V": 60,
+      "bulk_C_F": 0.001128,
+      "coil_L_H": 0.01,
+      "voltage_ceiling_V": 90,
+      "lossless_current_for_ceiling_A": 22.529980026622304
+    },
+    {
+      "initial_bus_V": 60,
+      "bulk_C_F": 0.001128,
+      "coil_L_H": 0.01,
+      "voltage_ceiling_V": 100,
+      "lossless_current_for_ceiling_A": 26.868568997994664
+    },
+    {
+      "initial_bus_V": 70,
+      "bulk_C_F": 0.00141,
+      "coil_L_H": 0.01,
+      "voltage_ceiling_V": 80,
+      "lossless_current_for_ceiling_A": 14.543039572248988
+    },
+    {
+      "initial_bus_V": 70,
+      "bulk_C_F": 0.00141,
+      "coil_L_H": 0.01,
+      "voltage_ceiling_V": 90,
+      "lossless_current_for_ceiling_A": 21.241468875762806
+    },
+    {
+      "initial_bus_V": 70,
+      "bulk_C_F": 0.00141,
+      "coil_L_H": 0.01,
+      "voltage_ceiling_V": 100,
+      "lossless_current_for_ceiling_A": 26.816039976103855
+    },
+    {
+      "initial_bus_V": 70,
+      "bulk_C_F": 0.001128,
+      "coil_L_H": 0.01,
+      "voltage_ceiling_V": 80,
+      "lossless_current_for_ceiling_A": 13.00769003320728
+    },
+    {
+      "initial_bus_V": 70,
+      "bulk_C_F": 0.001128,
+      "coil_L_H": 0.01,
+      "voltage_ceiling_V": 90,
+      "lossless_current_for_ceiling_A": 18.998947339260667
+    },
+    {
+      "initial_bus_V": 70,
+      "bulk_C_F": 0.001128,
+      "coil_L_H": 0.01,
+      "voltage_ceiling_V": 100,
+      "lossless_current_for_ceiling_A": 23.984995309568024
+    }
+  ]
+}

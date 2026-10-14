@@ -1,0 +1,100 @@
+{
+  "board_sha256": "12d3af33d01ae689c88cb5a2077517fdca46349c1c667219f46de5e4866f79ba",
+  "gerber_layers": [
+    [
+      "top",
+      "copper"
+    ],
+    [
+      "top",
+      "mask"
+    ],
+    [
+      "top",
+      "silk"
+    ],
+    [
+      "bottom",
+      "copper"
+    ],
+    [
+      "bottom",
+      "mask"
+    ],
+    [
+      "bottom",
+      "silk"
+    ],
+    [
+      "inner_1",
+      "copper"
+    ],
+    [
+      "inner_2",
+      "copper"
+    ],
+    [
+      "mechanical",
+      "outline"
+    ]
+  ],
+  "plated_holes": 261,
+  "unplated_holes": 4,
+  "drill_geometry_matches_native": true,
+  "max_drill_coordinate_error_mm": 0.0005000000000023874,
+  "drill_rounding_tolerance_mm": 0.00051,
+  "outline_mm": [
+    150,
+    110
+  ],
+  "outline_closed": true,
+  "fitted_assembly_parts": 51,
+  "assembly_native_geometry_match": true,
+  "excluded_bare_testpoints": [
+    "TP1",
+    "TP2",
+    "TP3",
+    "TP4",
+    "TP5",
+    "TP6"
+  ],
+  "fill_and_cap_selection_count": 38,
+  "parser_warnings": [
+    "/Users/rithvik/Documents/Medium Voltage Board/MV_Board_RevF1/Manufacturing/MV24_RevF1-NPTH.drl:12 \"G90\": G90 header statement found after end of header",
+    "/Users/rithvik/Documents/Medium Voltage Board/MV_Board_RevF1/Manufacturing/MV24_RevF1-PTH.drl:28 \"G90\": G90 header statement found after end of header"
+  ],
+  "parser_warning_interpretation": "KiCad puts G90 after M95; parser warns but absolute metric coordinates reconcile with every native hole and slot. Plating assigned from explicit PTH/NPTH file separation.",
+  "visual_review": "awaiting_actual_image_inspection",
+  "status": "machine_comparison_pass",
+  "file_hashes": {
+    "Manufacturing/MV24_RevF1-F_Silkscreen.gbr": "adb14ba666ed375845080c6a6745d4835977028d67a377facc0c7dbe6aee3b8b",
+    "Manufacturing/filled-vias-map.png": "d7785adf572471067398b76a7728da31f4f9f29835081b03e89a41d554835d13",
+    "Manufacturing/MV24_RevF1-NPTH-drl_map.svg": "b5425ad085f3501de5f16c3203da6c1f0fd0abf2ce4ddce3e6285634b9236b6a",
+    "Manufacturing/MV24_RevF1-B_Cu.gbr": "4c3a224fe67b5aa59cf65475a4e7d5389648d31674df886331dbfa5415eb9e62",
+    "Manufacturing/MV24_RevF1-F_Cu.gbr": "0ab3ce38ba80cea38910d764e43f0ddeb40e24479d7ea226266222450e7c6c96",
+    "Manufacturing/MV24_RevF1-PTH-drl_map.svg": "aeaa0279a256d884f6775db6557e916a9ab3f6d9b28ec40e607494bf9e543d0e",
+    "Manufacturing/MV24_RevF1-B_Silkscreen.gbr": "a76d4872e7830f85129490011a8e845daa65f051e9bc75c34c353eaefaaf10f4",
+    "Manufacturing/MV24_RevF1-In1_Cu.gbr": "95923fe404aa5119a4a26712cc5d65b6af861c09b8bc69788ed7218395cefb22",
+    "Manufacturing/MV24_RevF1-B_Mask.gbr": "e854adcd8cece4294617d35cce6a1bc64d227d4b2e213166745cf60398387513",
+    "Manufacturing/README.md": "24c3b2089752db672d309a90b095d4a46084d2d470db30fd9663e8f2f72084d1",
+    "Manufacturing/MV24_RevF1-NPTH.drl": "c43194b57478744c01afb08ecab6d5fa27d6dc28ce784c31d88a3eb8f0d00889",
+    "Manufacturing/MV24_RevF1-F_Mask.gbr": "3054439534d653aed3c6bd77598dc3ac234535017bc7abfbcc4b5d44becc6b31",
+    "Manufacturing/filled-vias.csv": "3425b525a8c981f64929a6db93fcdb09bed6401d50335110b0d0568b0796aa8e",
+    "Manufacturing/MV24_RevF1-In2_Cu.gbr": "eab2ab772ed56455e521ebda6abe55de6fae738df5861403674c015c884fb27b",
+    "Manufacturing/MV24_RevF1-PTH.drl": "7ded578b5527a8d90fefc594131163d127a60861d7a134bc2800d3347c14d717",
+    "Manufacturing/export-manifest.json": "79fda014fef6cdce264c0d206bb05722143068a6971735af81cf827dddeb8837",
+    "Manufacturing/drill-report.txt": "56d462622cad2f671bc1dd9916d310f4bb98b723bb7f06e85882468685fb2e55",
+    "Manufacturing/MV24_RevF1-Edge_Cuts.gbr": "9dfffe099bada56d0f5d2a225c7ca33e8f4aeed11b1d3650a7c473f97988dead",
+    "Manufacturing/MV24_RevF1-job.gbrjob": "9d12e114a7dd9677f8b1982faa5e8c56bfd9f036f62d6e0f66cbd9c315388a30",
+    "Assembly/grouped-bom.csv": "71ebc0f3949f294205c5de45f0a2eaba9a4ffa223f727cf1768525683e05e1dd",
+    "Assembly/assembly-reference-map.png": "0131f268be4c7b72a34df365fa166ea6797e3eee02a75b92f385e0b30f8893f2",
+    "Assembly/assembly-drawing.png": "37264f5ed888ee38c4e244e80c39b56e4f14a21b34dc40ea30017085b11338c7",
+    "Assembly/bom.csv": "47e061bb3d586d9a4ef6638d945b57c669bd0e7de6856e8e3516f366dc6d09c9",
+    "Assembly/assembly-drawing.svg": "3312cd8910a92c5dc2586c664aad4c42c948ff906070cf8c912c2f0a4818c724",
+    "Assembly/assembly-reference-map.svg": "700f403381185fe610edce530bff7728d3575c742af2fd28b19af859d4a79e4d",
+    "Assembly/native-unfiltered-bom.csv": "8ad67a7b81defadf73dcf180a3a507314dfc2dbb6e66c4f543e22ca575167b9f",
+    "Assembly/README.md": "74c0fcc0c880cf4d957ffac371d427df99f7b253db0f7cac391164ad0d0c7fcc",
+    "Assembly/placements.csv": "db62b21337e573248a067423cdcae28df8f9b8c6632aed1397ca9761de17542b",
+    "Assembly/assembly-netlist.xml": "24b560f12e04f450ac6eadfd821b7b78c991623ee4bb27734daa2bce1a95d5a7"
+  }
+}

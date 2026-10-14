@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "design_id": "MV24_REV_F1",
+  "scope": "schematic_and_pcb",
+  "requirements": [
+    {"id":"R1","target":"24 V output, 20 A total continuous design target across J3-J6; J2 raw input feedthrough","origin":"existing project/user","verification":"native connectivity, circuit and thermal screens; subsequent staged bench tests"},
+    {"id":"R2","target":"Keep Q1 and Q2 exact CSD19532Q5BT MOSFETs and their compact packages","origin":"user 2026-09-20","verification":"native BOM comparison"},
+    {"id":"R3","target":"Preserve Rev F outline, connector positions, and overall placement; minimize fitted part changes","origin":"user 2026-09-20","verification":"native geometry/BOM comparison"},
+    {"id":"R4","target":"Improve power-stage thermal paths and evaluate coordinated inductance/frequency/compensation changes","origin":"user-approved revision scope","verification":"native DRC, readback, averaged loop and thermal sensitivity screens"},
+    {"id":"R5","target":"Do not implement precharge in this revision; address input connection at the end","origin":"user 2026-09-20","verification":"no added input protection or precharge circuitry"},
+    {"id":"R6","target":"Prototype candidate with honest test limits; no production/full verification requirement","origin":"user 2026-09-20","verification":"scoped check reports and test plan"}
+  ],
+  "scenarios": ["36-72 V legacy electrical sensitivity envelope", "60 V nominal battery with project-recorded 67.2 V full-charge assumption", "0-20 A shared output", "forced-air cooled supervised prototype"],
+  "assumptions": ["Cooling may be selected by the designer", "Battery charger voltage and BMS/source impedance remain unverified manufacturer specifications", "J2 load is additional to converter input demand", "No reduction of 20 A design target is implied by staged bench limits"],
+  "unresolved": ["Precharge/input connection intentionally deferred", "Battery fuse/interface selection remains pending with input-connection work", "Full switching-stress and continuous-load thermal behavior require bench validation", "No physical board tested"],
+  "exclusions": ["Purchase/payment", "Precharge implementation", "MOSFET substitution", "Production qualification"]
+}

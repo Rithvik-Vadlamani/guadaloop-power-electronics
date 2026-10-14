@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "tool_version": "10.0.3",
+  "input_hashes": {
+    "/Users/rithvik/Documents/Medium Voltage Board/MV_Board_RevF1/KiCad/MV24_RevF1.kicad_sch": "b71b825cf09d9190ad914b3b53be684caf0df19d4dbed00973d26c2cb3e3519a",
+    "/Users/rithvik/Documents/Medium Voltage Board/MV_Board_RevF1/KiCad/Transistor_FET.kicad_sym": "9295b4e6a4bc95be466b43b34916f49ce4b7ec1121392f74a53d0caeba532558",
+    "/Users/rithvik/Documents/Medium Voltage Board/MV_Board_RevF1/KiCad/power.kicad_sym": "ac6fc11fea7c089e1386f128daf3bb8a833da5fb2013ac5b9fd12f5ced9da2a6",
+    "/Users/rithvik/Documents/Medium Voltage Board/MV_Board_RevF1/KiCad/Connector.kicad_sym": "4d9949e9f8103a167e4185dc8c23978cf59aed67267ab00b6bacbddff007f547",
+    "/Users/rithvik/Documents/Medium Voltage Board/MV_Board_RevF1/KiCad/fp-lib-table": "34fa76a5483095bdd26b2d0fa330b31e00ceb7b7d2dbbd1c4d5878196005e206",
+    "/Users/rithvik/Documents/Medium Voltage Board/MV_Board_RevF1/KiCad/MV24_RevF1.kicad_pro": "cd408947b66f3a7b225f3dec363346a0128a1bc68184652accd680055f7368a9",
+    "/Users/rithvik/Documents/Medium Voltage Board/MV_Board_RevF1/KiCad/Connector_Generic.kicad_sym": "06d64eac9c5ec01296a7785b3eee91a7ff4acb4027daea72b9b0a286a7ac0117",
+    "/Users/rithvik/Documents/Medium Voltage Board/MV_Board_RevF1/KiCad/sym-lib-table": "2d0d79f1fa80e3168c264076420797f75ab1c666d33fb3f1f70ea48f3da2f858",
+    "/Users/rithvik/Documents/Medium Voltage Board/MV_Board_RevF1/KiCad/Device.kicad_sym": "8b1c1a9a8b14687856febdf634385e8c9b90319c997c44c6e3b408dfd399acfe",
+    "/Users/rithvik/Documents/Medium Voltage Board/MV_Board_RevF1/KiCad/MV24_RevF1.kicad_dru": "8bdc65496a15f0032c85f8446b58490dfbd99288f17bb530e10c25dc1cd0a3c6",
+    "/Users/rithvik/Documents/Medium Voltage Board/MV_Board_RevF1/KiCad/MV.kicad_sym": "30197aa48bbd673b6a2a16efb2d082e7ae194d4e379d7f0603483a8954b5b362",
+    "/Users/rithvik/Documents/Medium Voltage Board/MV_Board_RevF1/KiCad/footprints/Capacitor_SMD.pretty/C_0805_2012Metric.kicad_mod": "525ada2457b1d7488c9ac8034340aba6011c8e15e53165a8883a7e512d36edf3",
+    "/Users/rithvik/Documents/Medium Voltage Board/MV_Board_RevF1/KiCad/footprints/Capacitor_SMD.pretty/C_1206_3216Metric.kicad_mod": "dcd0e4b29399d9e7210582011b0ccc3e7d67e33a464759b55db1eaf0b8893243",
+    "/Users/rithvik/Documents/Medium Voltage Board/MV_Board_RevF1/KiCad/footprints/Capacitor_SMD.pretty/C_1812_4532Metric.kicad_mod": "1ed9f289134d4b789986c28241e847facc94c8d07867e0486758927af03a79d8",
+    "/Users/rithvik/Documents/Medium Voltage Board/MV_Board_RevF1/KiCad/footprints/Connector_AMASS.pretty/AMASS_XT60PW-M_1x02_P7.20mm_Horizontal.kicad_mod": "5843002d7a0cdcfa7420b7a19d5012a84e1ea902a32f4e2e22f872bf3a3c5fd9",
+    "/Users/rithvik/Documents/Medium Voltage Board/MV_Board_RevF1/KiCad/footprints/MV.pretty/Molex_0389690002.kicad_mod": "abc38c6d471f310289ea392294023a1e4b11b8289cdd34642cbf93cde7392288",
+    "/Users/rithvik/Documents/Medium Voltage Board/MV_Board_RevF1/KiCad/footprints/MV.pretty/CODACA_CPRX3231L_100MC.kicad_mod": "34c6139fa87fbe2a041fcc62b83de588e0b49533858aa5ba182b581540dc4b7b",
+    "/Users/rithvik/Documents/Medium Voltage Board/MV_Board_RevF1/KiCad/footprints/MV.pretty/TI_RGY0020B.kicad_mod": "74ae7b1dae5fa3092681fc838f255c007ae1b2845bdd3e0b7cadb8f2845f725d",
+    "/Users/rithvik/Documents/Medium Voltage Board/MV_Board_RevF1/KiCad/footprints/MV.pretty/CODACA_CPRX3231L_150MC.kicad_mod": "2b73a997d29901dd334cb67051c8e8b2f08bfcf609844f9d9f182c9719ab0b05",
+    "/Users/rithvik/Documents/Medium Voltage Board/MV_Board_RevF1/KiCad/footprints/MV.pretty/Bourns_CRE2512_R005.kicad_mod": "1ccd5f005dad52a1c7346d741f4e55220d64ae4634a87d35bfe89b30c4dee04a",
+    "/Users/rithvik/Documents/Medium Voltage Board/MV_Board_RevF1/KiCad/footprints/MV.pretty/TI_Q5B_5x6.kicad_mod": "b71d7366c8094e450018d6eacac4b05f5d087b92fb565fc2bb7afff03aa83e72",
+    "/Users/rithvik/Documents/Medium Voltage Board/MV_Board_RevF1/KiCad/footprints/TestPoint.pretty/TestPoint_Pad_D2.0mm.kicad_mod": "95a50e2f2ed4ea7ca6f4c80c8c83c127d546b13663100967b3d55d7d66189778",
+    "/Users/rithvik/Documents/Medium Voltage Board/MV_Board_RevF1/KiCad/footprints/Capacitor_THT.pretty/CP_Radial_D12.5mm_P5.00mm.kicad_mod": "d34dc845a8af5a2d9c5760ee32602c3cf154fa85224872368723d3b15fc1cdc4",
+    "/Users/rithvik/Documents/Medium Voltage Board/MV_Board_RevF1/KiCad/footprints/Resistor_SMD.pretty/R_1206_3216Metric.kicad_mod": "6f0b879de3d0b2cf93dcfa108fc5cb1eb903d4508def8621f4406b4d6c1c09cb",
+    "/Users/rithvik/Documents/Medium Voltage Board/MV_Board_RevF1/KiCad/footprints/Resistor_SMD.pretty/R_0805_2012Metric.kicad_mod": "20243a46331c31017365957e561b9a7445ad6e87b51bb2b5d6dd203a3fca55f6",
+    "/Users/rithvik/Documents/Medium Voltage Board/MV_Board_RevF1/KiCad/footprints/Resistor_SMD.pretty/R_2512_6332Metric.kicad_mod": "93cd294d8f889311f0437816f80f4c75a99dd80005514ed2b1f76ce5e948e66f"
+  },
+  "intent_hash": "26da4fe6369b766a0bc32f1ae7f4d3fed0e4b358706f8652ba00d2fa9b6f338b",
+  "connectivity": {
+    "status": "pass",
+    "undeclared_pins": [],
+    "unknown_pins": [],
+    "missing_groups": [],
+    "unexpected_groups": []
+  },
+  "erc": {
+    "status": "pass",
+    "violations": []
+  },
+  "rendered_pages": [
+    "/Users/rithvik/Documents/Medium Voltage Board/MV_Board_RevF1/Verification/final-native/schematic-svg/MV24_RevF1.svg"
+  ],
+  "visual_review": "not_performed",
+  "status": "pass"
+}

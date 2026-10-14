@@ -1,0 +1,110 @@
+[
+  {
+    "schema_version": 1,
+    "id": "r6-value",
+    "candidate": {
+      "ref": "R6",
+      "part": "RT0805BRD07100KL",
+      "package": "0805",
+      "revision": "2026-09-20"
+    },
+    "parameter": "Resistance",
+    "category": "electrical",
+    "bound": "nominal",
+    "value": 100.0,
+    "unit": "kohm",
+    "conditions": {
+      "source": "Exact part summary; nominal resistance; initial tolerance and TCR reviewed separately"
+    },
+    "source": {
+      "document": "r6-f1",
+      "sha256": "a3308681460bcd17cff95bb3401bbe4ed61a322956998d633925f583237ace90",
+      "page": 1,
+      "quote": "100 kOhms",
+      "bbox": null,
+      "table": 2,
+      "row": 1,
+      "column": 1
+    },
+    "state": "accepted_for_use",
+    "review": {
+      "actor": "Codex Rev F1 review",
+      "method": "original_page_review",
+      "rationale": "Visually inspected original exact-part PDF page1, Specifications Resistance cell:100kOhms. Correct 0805 part, nominal resistance;0.1percent tolerance and25ppm/K separately accounted.",
+      "timestamp": "2026-09-20T16:25:12.694531+00:00",
+      "binding_hash": "1b96f1bf0644c10f87b7ff964df8e1bd2861bcae967087497b0ebd38d5d6223d"
+    }
+  },
+  {
+    "schema_version": 1,
+    "id": "r10-value",
+    "candidate": {
+      "ref": "R10",
+      "part": "RC0805FR-078K2L",
+      "package": "0805",
+      "revision": "2026-09-20"
+    },
+    "parameter": "Resistance",
+    "category": "electrical",
+    "bound": "nominal",
+    "value": 8.2,
+    "unit": "kohm",
+    "conditions": {
+      "source": "Exact part summary; nominal resistance; initial tolerance and TCR reviewed separately"
+    },
+    "source": {
+      "document": "r10-f1",
+      "sha256": "0e0c08f475f1c63a6a36538e523291340b25d234fba11ee549b6976aa540dc1d",
+      "page": 1,
+      "quote": "8.2 kOhms",
+      "bbox": null,
+      "table": 2,
+      "row": 1,
+      "column": 1
+    },
+    "state": "accepted_for_use",
+    "review": {
+      "actor": "Codex Rev F1 review",
+      "method": "original_page_review",
+      "rationale": "Visually inspected original exact-part PDF page1, Specifications Resistance cell:8.2kOhms. Correct 0805 part;1percent initial and100ppm/K are independently included for R10/R11 in the loop scenario.",
+      "timestamp": "2026-09-20T16:25:12.981643+00:00",
+      "binding_hash": "804589418f9ac1ef7a8a0bc27691233b983b50eb05bbdfb15d8c5bb969c901b6"
+    }
+  },
+  {
+    "schema_version": 1,
+    "id": "l1-value",
+    "candidate": {
+      "ref": "L1",
+      "part": "CPRX3231L-150MC",
+      "package": "CPRX3231L",
+      "revision": "2023-10-10"
+    },
+    "parameter": "Inductance",
+    "category": "electrical",
+    "bound": "nominal",
+    "value": 15.0,
+    "unit": "uH",
+    "conditions": {
+      "measurement": "100 kHz, 0.1 V, 25 C ambient; nominal before DC bias; +/-20 percent initial tolerance"
+    },
+    "source": {
+      "document": "l1-f1",
+      "sha256": "a0742fff462bd311194305c1a57631399f935a692606a6215d29287812680ee0",
+      "page": 1,
+      "quote": "CPRX3231L-150MC 15.0 1.35 1.60 64.0 42.0",
+      "bbox": null,
+      "table": 2,
+      "row": 1,
+      "column": 4
+    },
+    "state": "accepted_for_use",
+    "review": {
+      "actor": "Codex Rev F1 review",
+      "method": "original_page_review",
+      "rationale": "Visually inspected original CODACA page1 electrical table,150MC row and inductance column:15uH nominal,100kHz/0.1V,25C. Numeric extraction cell is table2,row1,column4;64A/42A currents are typical and not guaranteed bounds.",
+      "timestamp": "2026-09-20T16:25:13.264502+00:00",
+      "binding_hash": "d7efec9c691c1dca3ab1bde05545c269128f18fe8c0632f339e07e81dbc0b9b3"
+    }
+  }
+]

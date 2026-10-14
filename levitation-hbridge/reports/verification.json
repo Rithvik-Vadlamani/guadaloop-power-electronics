@@ -1,0 +1,247 @@
+{
+  "schematic_geometry": "PASS",
+  "native_netlist_crosscheck": "PASS",
+  "pcb_pad_mapping": "PASS",
+  "electrical_parts": 64,
+  "physical_items": 74,
+  "nets": 34,
+  "pins": 168,
+  "copper_layers": 4,
+  "inner_layer_tracks": 0,
+  "fet_pitch_mm": 25,
+  "interface_placement": {
+    "J3_pin1_mm": [
+      107.0,
+      110.0
+    ],
+    "J3_pin8_mm": [
+      124.78,
+      110.0
+    ],
+    "pin_row_to_bottom_edge_mm": 4.0,
+    "front_mating_header": true,
+    "actual_mating_envelope_verified": false
+  },
+  "gate_metrics": {
+    "Q1": {
+      "turnoff_branch_copper_mm": 13.734,
+      "turnoff_loop_including_pad_spans_mm": 34.58,
+      "driver_to_resistor_mm": 9.809,
+      "resistor_to_gate_mm": 6.375,
+      "resistor_pad_span_mm": 2.925,
+      "source_return_copper_mm": 15.721,
+      "gate_loop_including_resistor_span_mm": 34.83,
+      "return_path_note": "Dedicated SW source return measured"
+    },
+    "Q2": {
+      "turnoff_branch_copper_mm": 20.817,
+      "turnoff_loop_including_pad_spans_mm": 34.285,
+      "driver_to_resistor_mm": 11.433,
+      "resistor_to_gate_mm": 11.82,
+      "resistor_pad_span_mm": 2.925,
+      "source_return_copper_mm": 8.343,
+      "gate_loop_including_resistor_span_mm": 34.521,
+      "return_path_note": "Dedicated source return trace measured; solid GND plane provides parallel return"
+    },
+    "Q3": {
+      "turnoff_branch_copper_mm": 13.734,
+      "turnoff_loop_including_pad_spans_mm": 34.58,
+      "driver_to_resistor_mm": 9.809,
+      "resistor_to_gate_mm": 6.375,
+      "resistor_pad_span_mm": 2.925,
+      "source_return_copper_mm": 15.721,
+      "gate_loop_including_resistor_span_mm": 34.83,
+      "return_path_note": "Dedicated SW source return measured"
+    },
+    "Q4": {
+      "turnoff_branch_copper_mm": 20.817,
+      "turnoff_loop_including_pad_spans_mm": 34.285,
+      "driver_to_resistor_mm": 11.432,
+      "resistor_to_gate_mm": 11.82,
+      "resistor_pad_span_mm": 2.925,
+      "source_return_copper_mm": 8.343,
+      "gate_loop_including_resistor_span_mm": 34.52,
+      "return_path_note": "Dedicated source return trace measured; solid GND plane provides parallel return"
+    }
+  },
+  "gate_matching_percent": {
+    "A": 0.895,
+    "B": 0.898
+  },
+  "bridge_ceramic_distances": {
+    "C1": {
+      "nearest_power_pad_center_mm": 4.499,
+      "endpoints": "C1.1 to Q2.2"
+    },
+    "C2": {
+      "nearest_power_pad_center_mm": 4.695,
+      "endpoints": "C2.1 to Q2.3"
+    },
+    "C3": {
+      "nearest_power_pad_center_mm": 4.733,
+      "endpoints": "C3.1 to Q1.2"
+    },
+    "C4": {
+      "nearest_power_pad_center_mm": 4.512,
+      "endpoints": "C4.1 to Q1.3"
+    },
+    "C5": {
+      "nearest_power_pad_center_mm": 4.524,
+      "endpoints": "C5.2 to Q2.3"
+    },
+    "C6": {
+      "nearest_power_pad_center_mm": 4.499,
+      "endpoints": "C6.1 to Q4.2"
+    },
+    "C7": {
+      "nearest_power_pad_center_mm": 4.695,
+      "endpoints": "C7.1 to Q4.3"
+    },
+    "C8": {
+      "nearest_power_pad_center_mm": 4.733,
+      "endpoints": "C8.1 to Q3.2"
+    },
+    "C9": {
+      "nearest_power_pad_center_mm": 4.512,
+      "endpoints": "C9.1 to Q3.3"
+    },
+    "C10": {
+      "nearest_power_pad_center_mm": 4.524,
+      "endpoints": "C10.2 to Q4.3"
+    }
+  },
+  "driver_capacitor_front_only_paths": {
+    "C14": {
+      "VCC_top_copper_mm": 2.4,
+      "COM_top_copper_mm": 5.998
+    },
+    "C15": {
+      "VCC_top_copper_mm": 7.749,
+      "COM_top_copper_mm": 8.497
+    },
+    "C19": {
+      "VCC_top_copper_mm": 2.4,
+      "COM_top_copper_mm": 5.998
+    },
+    "C18": {
+      "VCC_top_copper_mm": 7.749,
+      "COM_top_copper_mm": 8.497
+    }
+  },
+  "measured_sense_copper_mm": {
+    "SNS_P": 7.349,
+    "SNS_N": 7.349
+  },
+  "copper_thickness_mm": {
+    "F.Cu": 0.07,
+    "In1.Cu": 0.035,
+    "In2.Cu": 0.035,
+    "B.Cu": 0.07
+  },
+  "decoupling_pad_center_distances": {
+    "C16": {
+      "VB_mm": 2.924,
+      "VS_mm": 2.681
+    },
+    "C14": {
+      "VCC_mm": 2.276,
+      "COM_mm": 4.908
+    },
+    "C15": {
+      "VCC_mm": 4.04,
+      "COM_mm": 3.576
+    },
+    "C17": {
+      "VB_mm": 2.924,
+      "VS_mm": 2.681
+    },
+    "C19": {
+      "VCC_mm": 2.276,
+      "COM_mm": 4.908
+    },
+    "C18": {
+      "VCC_mm": 4.04,
+      "COM_mm": 3.576
+    }
+  },
+  "DRC_violations": 0,
+  "unconnected_items": 0,
+  "sense_pair": {
+    "SNS_P": {
+      "points": [
+        [
+          117.65,
+          57
+        ],
+        [
+          118.1,
+          57
+        ],
+        [
+          118.1,
+          59.6
+        ],
+        [
+          115.9,
+          61.8
+        ],
+        [
+          115,
+          61.8
+        ],
+        [
+          115,
+          62.0875
+        ]
+      ],
+      "length_mm": 7.348769837220795
+    },
+    "SNS_N": {
+      "points": [
+        [
+          120.35,
+          57
+        ],
+        [
+          119.9,
+          57
+        ],
+        [
+          119.9,
+          59
+        ],
+        [
+          120.41213203435596,
+          59
+        ],
+        [
+          120.41213203435596,
+          59.4
+        ],
+        [
+          119.9,
+          59.4
+        ],
+        [
+          119.9,
+          59.6
+        ],
+        [
+          118,
+          61.5
+        ],
+        [
+          118,
+          62.0875
+        ]
+      ],
+      "length_mm": 7.348769837220788
+    }
+  },
+  "file_sha256": {
+    "poc_lev.kicad_sch": "53213fa248c9735fcb17de750a22ffc4e0646e78d60e451492e709c56845e3a3",
+    "poc_lev.kicad_pcb": "3d6c70f6fd4c507ba56ff5f6d2e8853c98d8226be8377f9bbadb38beab7cc458",
+    "poc_lev.kicad_pro": "3afa30620d58a60edaa66099d0bbdb0bebad0fc9ba6750593d3d95640ba44ced",
+    "BOM.csv": "c7b13dfe8b086264231ed397aa879c1e6bdb75abe39da3f0d837c6f3137281b8"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "name": "MV24_RevF1",
+  "documents": [
+    {
+      "id": "r6-f1",
+      "path": "datasheets/a3308681460b-R6-100k.pdf",
+      "title": "R6-100k",
+      "parts": [
+        "RT0805BRD07100KL"
+      ],
+      "revision": "2026-09-20",
+      "kind": "datasheet",
+      "source_url": "https://www.yageogroup.com/component-documentation/download/specsheet/RT0805BRD07100KL"
+    },
+    {
+      "id": "r10-f1",
+      "path": "datasheets/0e0c08f475f1-R10-8k2.pdf",
+      "title": "R10-8k2",
+      "parts": [
+        "RC0805FR-078K2L"
+      ],
+      "revision": "2026-09-20",
+      "kind": "datasheet",
+      "source_url": "https://www.yageogroup.com/component-documentation/download/specsheet/RC0805FR-078K2L"
+    },
+    {
+      "id": "l1-f1",
+      "path": "datasheets/a0742fff462b-a0742fff462b-CPRX3231L.pdf",
+      "title": "a0742fff462b-CPRX3231L",
+      "parts": [
+        "CPRX3231L-150MC"
+      ],
+      "revision": "2023-10-10",
+      "kind": "datasheet",
+      "source_url": "https://www.codaca.com/Productsctr_CPRX3231L.html"
+    }
+  ],
+  "netlist": "netlist.xml",
+  "schematic": "/Users/rithvik/Documents/Medium Voltage Board/MV_Board_RevF1/KiCad/MV24_RevF1.kicad_sch",
+  "schematic_hashes": {
+    "/Users/rithvik/Documents/Medium Voltage Board/MV_Board_RevF1/KiCad/MV24_RevF1.kicad_sch": "b71b825cf09d9190ad914b3b53be684caf0df19d4dbed00973d26c2cb3e3519a"
+  },
+  "component_parts": {},
+  "design": "design.json",
+  "settings": {
+    "ocr_mode": "off",
+    "ocr_language": "eng",
+    "ocr_dpi": 300,
+    "shared_extraction_cache": "",
+    "embedding_query_prefix": "",
+    "embedding_document_prefix": "",
+    "reranker_model": "",
+    "reranker_candidates": 30,
+    "restore_parent_context": true,
+    "embedding_provider": "none",
+    "embedding_model": "",
+    "chat_provider": "none",
+    "chat_model": "",
+    "ollama_url": "http://127.0.0.1:11434",
+    "chunk_chars": 2200,
+    "overlap_chars": 250,
+    "top_k": 12,
+    "context_chars": 38000,
+    "max_output_tokens": 4000
+  }
+}

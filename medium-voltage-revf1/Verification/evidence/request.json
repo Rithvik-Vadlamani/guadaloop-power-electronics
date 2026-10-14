@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "design_id": "MV24_REV_F1",
+  "topology": "exported",
+  "candidates": [
+    {
+      "ref": "R6",
+      "part": "RT0805BRD07100KL",
+      "package": "0805",
+      "revision": "2026-09-20"
+    },
+    {
+      "ref": "R10",
+      "part": "RC0805FR-078K2L",
+      "package": "0805",
+      "revision": "2026-09-20"
+    },
+    {
+      "ref": "L1",
+      "part": "CPRX3231L-150MC",
+      "package": "CPRX3231L",
+      "revision": "2023-10-10"
+    }
+  ],
+  "obligations": [
+    {
+      "id": "r6-value",
+      "ref": "R6",
+      "parameter": "Resistance",
+      "category": "electrical",
+      "bound": "nominal",
+      "unit": "kohm",
+      "conditions": {
+        "source": "Exact part summary; nominal resistance; initial tolerance and TCR reviewed separately"
+      },
+      "query": "RT0805BRD07100KL Resistance 100.0 kohm"
+    },
+    {
+      "id": "r10-value",
+      "ref": "R10",
+      "parameter": "Resistance",
+      "category": "electrical",
+      "bound": "nominal",
+      "unit": "kohm",
+      "conditions": {
+        "source": "Exact part summary; nominal resistance; initial tolerance and TCR reviewed separately"
+      },
+      "query": "RC0805FR-078K2L Resistance 8.2 kohm"
+    },
+    {
+      "id": "l1-value",
+      "ref": "L1",
+      "parameter": "Inductance",
+      "category": "electrical",
+      "bound": "nominal",
+      "unit": "uH",
+      "conditions": {
+        "measurement": "100 kHz, 0.1 V, 25 C ambient; nominal before DC bias; +/-20 percent initial tolerance"
+      },
+      "query": "CPRX3231L-150MC Inductance 15.0 uH"
+    }
+  ]
+}

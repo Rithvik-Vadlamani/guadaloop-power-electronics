@@ -1,0 +1,57 @@
+{
+  "baseline_files_checked": 154,
+  "baseline_changes": [],
+  "footprint_count": 63,
+  "moved_footprints": [],
+  "added_footprints": [],
+  "removed_footprints": [],
+  "outline_identical": true,
+  "mosfet_changes": [],
+  "fitted_parts_before": 51,
+  "fitted_parts_after": 51,
+  "fitted_part_changes": {
+    "R6": {
+      "before": {
+        "mpn": "RT0805BRD0775KL",
+        "value": "75k",
+        "footprint": "Resistor_SMD:R_0805_2012Metric"
+      },
+      "after": {
+        "mpn": "RT0805BRD07100KL",
+        "value": "100k",
+        "footprint": "Resistor_SMD:R_0805_2012Metric"
+      }
+    },
+    "R10": {
+      "before": {
+        "mpn": "RC0805FR-076K81L",
+        "value": "6.81k",
+        "footprint": "Resistor_SMD:R_0805_2012Metric"
+      },
+      "after": {
+        "mpn": "RC0805FR-078K2L",
+        "value": "8.2k",
+        "footprint": "Resistor_SMD:R_0805_2012Metric"
+      }
+    },
+    "L1": {
+      "before": {
+        "mpn": "CPRX3231L-100MC",
+        "value": "10u / CPRX3231L",
+        "footprint": "MV:CODACA_CPRX3231L_100MC"
+      },
+      "after": {
+        "mpn": "CPRX3231L-150MC",
+        "value": "15u / CPRX3231L",
+        "footprint": "MV:CODACA_CPRX3231L_150MC"
+      }
+    }
+  },
+  "added_via_count": 37,
+  "expected_thermal_vias": 37,
+  "thermal_via_errors": [],
+  "stale_native_inputs": [],
+  "board_sha256": "12d3af33d01ae689c88cb5a2077517fdca46349c1c667219f46de5e4866f79ba",
+  "schematic_sha256": "b71b825cf09d9190ad914b3b53be684caf0df19d4dbed00973d26c2cb3e3519a",
+  "status": "pass"
+}

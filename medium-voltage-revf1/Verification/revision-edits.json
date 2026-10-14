@@ -1,0 +1,249 @@
+{
+  "changes": {
+    "L1": {
+      "value": "15u / CPRX3231L",
+      "mpn": "CPRX3231L-150MC",
+      "footprint": "MV:CODACA_CPRX3231L_150MC",
+      "url": "https://www.codaca.com/Productsctr_CPRX3231L.html",
+      "reason": "Coordinate 15uH with 100kHz to reduce gate-drive demand without increasing nominal ripple"
+    },
+    "R6": {
+      "value": "100k",
+      "mpn": "RT0805BRD07100KL",
+      "url": "https://www.yageogroup.com/component-documentation/download/specsheet/RT0805BRD07100KL",
+      "reason": "100kHz nominal; reduced gate-supply and switching demand"
+    },
+    "R10": {
+      "value": "8.2k",
+      "mpn": "RC0805FR-078K2L",
+      "url": "https://www.yageogroup.com/component-documentation/download/specsheet/RC0805FR-078K2L",
+      "reason": "Compensation selected with 15uH/100kHz; 46.94deg minimum in declared averaged-model scenarios"
+    }
+  },
+  "added_thermal_vias": [
+    {
+      "net": "/SW",
+      "x_mm": 96.75,
+      "y_mm": 69.0
+    },
+    {
+      "net": "/SW",
+      "x_mm": 96.75,
+      "y_mm": 70.25
+    },
+    {
+      "net": "/SW",
+      "x_mm": 98.0,
+      "y_mm": 69.0
+    },
+    {
+      "net": "/SW",
+      "x_mm": 98.0,
+      "y_mm": 70.25
+    },
+    {
+      "net": "/SW",
+      "x_mm": 98.0,
+      "y_mm": 72.75
+    },
+    {
+      "net": "/SW",
+      "x_mm": 98.0,
+      "y_mm": 74.0
+    },
+    {
+      "net": "/SW",
+      "x_mm": 98.0,
+      "y_mm": 75.25
+    },
+    {
+      "net": "/SW",
+      "x_mm": 99.25,
+      "y_mm": 74.0
+    },
+    {
+      "net": "/VIN",
+      "x_mm": 86.25,
+      "y_mm": 62.0
+    },
+    {
+      "net": "/VIN",
+      "x_mm": 86.25,
+      "y_mm": 63.25
+    },
+    {
+      "net": "/VIN",
+      "x_mm": 86.25,
+      "y_mm": 64.5
+    },
+    {
+      "net": "/VIN",
+      "x_mm": 86.25,
+      "y_mm": 65.75
+    },
+    {
+      "net": "/VIN",
+      "x_mm": 87.5,
+      "y_mm": 62.0
+    },
+    {
+      "net": "/VIN",
+      "x_mm": 87.5,
+      "y_mm": 63.25
+    },
+    {
+      "net": "/VIN",
+      "x_mm": 87.5,
+      "y_mm": 64.5
+    },
+    {
+      "net": "/VIN",
+      "x_mm": 87.5,
+      "y_mm": 65.75
+    },
+    {
+      "net": "/VIN",
+      "x_mm": 88.75,
+      "y_mm": 62.0
+    },
+    {
+      "net": "/VIN",
+      "x_mm": 88.75,
+      "y_mm": 63.25
+    },
+    {
+      "net": "/VIN",
+      "x_mm": 88.75,
+      "y_mm": 64.5
+    },
+    {
+      "net": "/VIN",
+      "x_mm": 88.75,
+      "y_mm": 65.75
+    },
+    {
+      "net": "/VIN",
+      "x_mm": 90.0,
+      "y_mm": 62.0
+    },
+    {
+      "net": "/VIN",
+      "x_mm": 91.25,
+      "y_mm": 62.0
+    },
+    {
+      "net": "/VIN",
+      "x_mm": 92.5,
+      "y_mm": 62.0
+    },
+    {
+      "net": "/VIN",
+      "x_mm": 93.75,
+      "y_mm": 62.0
+    },
+    {
+      "net": "/VIN",
+      "x_mm": 95.0,
+      "y_mm": 62.0
+    },
+    {
+      "net": "/VIN",
+      "x_mm": 92.3,
+      "y_mm": 63.2,
+      "in_pad": true,
+      "finish": "resin-filled and copper-capped"
+    },
+    {
+      "net": "/VIN",
+      "x_mm": 92.3,
+      "y_mm": 65.0,
+      "in_pad": true,
+      "finish": "resin-filled and copper-capped"
+    },
+    {
+      "net": "/VIN",
+      "x_mm": 92.3,
+      "y_mm": 65.8,
+      "in_pad": true,
+      "finish": "resin-filled and copper-capped"
+    },
+    {
+      "net": "/VIN",
+      "x_mm": 94.2,
+      "y_mm": 63.2,
+      "in_pad": true,
+      "finish": "resin-filled and copper-capped"
+    },
+    {
+      "net": "/VIN",
+      "x_mm": 94.2,
+      "y_mm": 65.0,
+      "in_pad": true,
+      "finish": "resin-filled and copper-capped"
+    },
+    {
+      "net": "/VIN",
+      "x_mm": 94.2,
+      "y_mm": 65.8,
+      "in_pad": true,
+      "finish": "resin-filled and copper-capped"
+    },
+    {
+      "net": "/SW",
+      "x_mm": 94.1,
+      "y_mm": 71.6,
+      "in_pad": true,
+      "finish": "resin-filled and copper-capped"
+    },
+    {
+      "net": "/SW",
+      "x_mm": 94.1,
+      "y_mm": 73.0,
+      "in_pad": true,
+      "finish": "resin-filled and copper-capped"
+    },
+    {
+      "net": "/SW",
+      "x_mm": 94.1,
+      "y_mm": 74.4,
+      "in_pad": true,
+      "finish": "resin-filled and copper-capped"
+    },
+    {
+      "net": "/SW",
+      "x_mm": 95.4,
+      "y_mm": 71.6,
+      "in_pad": true,
+      "finish": "resin-filled and copper-capped"
+    },
+    {
+      "net": "/SW",
+      "x_mm": 95.4,
+      "y_mm": 73.0,
+      "in_pad": true,
+      "finish": "resin-filled and copper-capped"
+    },
+    {
+      "net": "/SW",
+      "x_mm": 95.4,
+      "y_mm": 74.4,
+      "in_pad": true,
+      "finish": "resin-filled and copper-capped"
+    }
+  ],
+  "restored_erc_categories": {},
+  "copper_um": [
+    70,
+    35,
+    35,
+    70
+  ],
+  "thickness_mm": 1.6,
+  "finish": "ENIG",
+  "new_fitted_components": 0,
+  "unchanged_mosfets": [
+    "Q1",
+    "Q2"
+  ],
+  "precharge": "not implemented; user deferred"
+}

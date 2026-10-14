@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "board_sha256": "12d3af33d01ae689c88cb5a2077517fdca46349c1c667219f46de5e4866f79ba",
+  "files": {
+    "MV24_RevF1-B_Cu.gbr": "4c3a224fe67b5aa59cf65475a4e7d5389648d31674df886331dbfa5415eb9e62",
+    "MV24_RevF1-B_Mask.gbr": "e854adcd8cece4294617d35cce6a1bc64d227d4b2e213166745cf60398387513",
+    "MV24_RevF1-B_Silkscreen.gbr": "a76d4872e7830f85129490011a8e845daa65f051e9bc75c34c353eaefaaf10f4",
+    "MV24_RevF1-Edge_Cuts.gbr": "9dfffe099bada56d0f5d2a225c7ca33e8f4aeed11b1d3650a7c473f97988dead",
+    "MV24_RevF1-F_Cu.gbr": "0ab3ce38ba80cea38910d764e43f0ddeb40e24479d7ea226266222450e7c6c96",
+    "MV24_RevF1-F_Mask.gbr": "3054439534d653aed3c6bd77598dc3ac234535017bc7abfbcc4b5d44becc6b31",
+    "MV24_RevF1-F_Silkscreen.gbr": "adb14ba666ed375845080c6a6745d4835977028d67a377facc0c7dbe6aee3b8b",
+    "MV24_RevF1-In1_Cu.gbr": "95923fe404aa5119a4a26712cc5d65b6af861c09b8bc69788ed7218395cefb22",
+    "MV24_RevF1-In2_Cu.gbr": "eab2ab772ed56455e521ebda6abe55de6fae738df5861403674c015c884fb27b",
+    "MV24_RevF1-NPTH-drl_map.svg": "b5425ad085f3501de5f16c3203da6c1f0fd0abf2ce4ddce3e6285634b9236b6a",
+    "MV24_RevF1-NPTH.drl": "c43194b57478744c01afb08ecab6d5fa27d6dc28ce784c31d88a3eb8f0d00889",
+    "MV24_RevF1-PTH-drl_map.svg": "aeaa0279a256d884f6775db6557e916a9ab3f6d9b28ec40e607494bf9e543d0e",
+    "MV24_RevF1-PTH.drl": "7ded578b5527a8d90fefc594131163d127a60861d7a134bc2800d3347c14d717",
+    "MV24_RevF1-job.gbrjob": "9d12e114a7dd9677f8b1982faa5e8c56bfd9f036f62d6e0f66cbd9c315388a30",
+    "drill-report.txt": "56d462622cad2f671bc1dd9916d310f4bb98b723bb7f06e85882468685fb2e55"
+  },
+  "layers": [
+    "F.Cu",
+    "In1.Cu",
+    "In2.Cu",
+    "B.Cu",
+    "F.Mask",
+    "B.Mask",
+    "F.SilkS",
+    "B.SilkS",
+    "Edge.Cuts"
+  ],
+  "status": "exported_requires_manufacturing_review",
+  "scope": "All enabled copper layers plus mask/silkscreen/outline; independently review actual fabrication files, dimensions and drill data. No order submitted."
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "side": "F",
+    "source_sha256": "c7d15ca341782e064225ebeffd6029d7e5aef7b787e99008fed29e73e4844a5a",
+    "output_sha256": "335f579d5e7f52161b454e7bc906f10d00d9009512c3a89d983c73caf5f236a4",
+    "removed_aperture_flashes": 4,
+    "remaining_objects": 116,
+    "remaining_geometry_unchanged": true,
+    "rendered_geometry_identical": true,
+    "note": "Gerbonara re-export omits X2 component attributes. DNP filtering uses the retained raw source attributes; output geometry is independently read back and rendered pixel-identically. KiCad RoundRect macro unused parameters produce a parser warning without changing geometry."
+  },
+  {
+    "side": "B",
+    "source_sha256": "a2b6e39e4daec4079377cab522dc4dc0043bd7658ecd26d0c437be11ad6c4dd2",
+    "output_sha256": "e919783316a7974ca4d74a9ce49e3a7306f233a6b2378693e55b8fc6451f410c",
+    "removed_aperture_flashes": 0,
+    "remaining_objects": 0,
+    "remaining_geometry_unchanged": true,
+    "rendered_geometry_identical": true,
+    "note": "Gerbonara re-export omits X2 component attributes. DNP filtering uses the retained raw source attributes; output geometry is independently read back and rendered pixel-identically. KiCad RoundRect macro unused parameters produce a parser warning without changing geometry."
+  }
+]

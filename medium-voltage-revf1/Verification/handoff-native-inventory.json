@@ -1,0 +1,4880 @@
+{
+  "board_sha256": "12d3af33d01ae689c88cb5a2077517fdca46349c1c667219f46de5e4866f79ba",
+  "holes": [
+    {
+      "plated": true,
+      "diameter": 1.2,
+      "points": [
+        [
+          149.0,
+          -43.0
+        ],
+        [
+          149.0,
+          -43.0
+        ]
+      ],
+      "source": "C13.1"
+    },
+    {
+      "plated": true,
+      "diameter": 1.2,
+      "points": [
+        [
+          149.0,
+          -38.0
+        ],
+        [
+          149.0,
+          -38.0
+        ]
+      ],
+      "source": "C13.2"
+    },
+    {
+      "plated": true,
+      "diameter": 0.6,
+      "points": [
+        [
+          27.45,
+          -80.15
+        ],
+        [
+          28.55,
+          -80.15
+        ]
+      ],
+      "source": "J2."
+    },
+    {
+      "plated": true,
+      "diameter": 0.6,
+      "points": [
+        [
+          27.45,
+          -66.65
+        ],
+        [
+          28.55,
+          -66.65
+        ]
+      ],
+      "source": "J2."
+    },
+    {
+      "plated": true,
+      "diameter": 2.7,
+      "points": [
+        [
+          34.0,
+          -77.0
+        ],
+        [
+          34.0,
+          -77.0
+        ]
+      ],
+      "source": "J2.1"
+    },
+    {
+      "plated": true,
+      "diameter": 2.7,
+      "points": [
+        [
+          34.0,
+          -69.8
+        ],
+        [
+          34.0,
+          -69.8
+        ]
+      ],
+      "source": "J2.2"
+    },
+    {
+      "plated": false,
+      "diameter": 3.2,
+      "points": [
+        [
+          165.0,
+          -125.0
+        ],
+        [
+          165.0,
+          -125.0
+        ]
+      ],
+      "source": "H4."
+    },
+    {
+      "plated": true,
+      "diameter": 4.0,
+      "points": [
+        [
+          114.0,
+          -87.4
+        ],
+        [
+          114.0,
+          -82.6
+        ]
+      ],
+      "source": "L1.1"
+    },
+    {
+      "plated": true,
+      "diameter": 4.0,
+      "points": [
+        [
+          134.0,
+          -67.4
+        ],
+        [
+          134.0,
+          -62.6
+        ]
+      ],
+      "source": "L1.2"
+    },
+    {
+      "plated": true,
+      "diameter": 1.2,
+      "points": [
+        [
+          91.0,
+          -36.0
+        ],
+        [
+          91.0,
+          -36.0
+        ]
+      ],
+      "source": "C4.1"
+    },
+    {
+      "plated": true,
+      "diameter": 1.2,
+      "points": [
+        [
+          91.0,
+          -31.0
+        ],
+        [
+          91.0,
+          -31.0
+        ]
+      ],
+      "source": "C4.2"
+    },
+    {
+      "plated": true,
+      "diameter": 1.2,
+      "points": [
+        [
+          91.0,
+          -51.0
+        ],
+        [
+          91.0,
+          -51.0
+        ]
+      ],
+      "source": "C8.1"
+    },
+    {
+      "plated": true,
+      "diameter": 1.2,
+      "points": [
+        [
+          91.0,
+          -46.0
+        ],
+        [
+          91.0,
+          -46.0
+        ]
+      ],
+      "source": "C8.2"
+    },
+    {
+      "plated": true,
+      "diameter": 0.6,
+      "points": [
+        [
+          27.45,
+          -47.15
+        ],
+        [
+          28.55,
+          -47.15
+        ]
+      ],
+      "source": "J1."
+    },
+    {
+      "plated": true,
+      "diameter": 0.6,
+      "points": [
+        [
+          27.45,
+          -33.65
+        ],
+        [
+          28.55,
+          -33.65
+        ]
+      ],
+      "source": "J1."
+    },
+    {
+      "plated": true,
+      "diameter": 2.7,
+      "points": [
+        [
+          34.0,
+          -44.0
+        ],
+        [
+          34.0,
+          -44.0
+        ]
+      ],
+      "source": "J1.1"
+    },
+    {
+      "plated": true,
+      "diameter": 2.7,
+      "points": [
+        [
+          34.0,
+          -36.8
+        ],
+        [
+          34.0,
+          -36.8
+        ]
+      ],
+      "source": "J1.2"
+    },
+    {
+      "plated": true,
+      "diameter": 1.2,
+      "points": [
+        [
+          46.0,
+          -51.0
+        ],
+        [
+          46.0,
+          -51.0
+        ]
+      ],
+      "source": "C5.1"
+    },
+    {
+      "plated": true,
+      "diameter": 1.2,
+      "points": [
+        [
+          46.0,
+          -46.0
+        ],
+        [
+          46.0,
+          -46.0
+        ]
+      ],
+      "source": "C5.2"
+    },
+    {
+      "plated": true,
+      "diameter": 1.2,
+      "points": [
+        [
+          61.0,
+          -36.0
+        ],
+        [
+          61.0,
+          -36.0
+        ]
+      ],
+      "source": "C2.1"
+    },
+    {
+      "plated": true,
+      "diameter": 1.2,
+      "points": [
+        [
+          61.0,
+          -31.0
+        ],
+        [
+          61.0,
+          -31.0
+        ]
+      ],
+      "source": "C2.2"
+    },
+    {
+      "plated": true,
+      "diameter": 1.2,
+      "points": [
+        [
+          76.0,
+          -51.0
+        ],
+        [
+          76.0,
+          -51.0
+        ]
+      ],
+      "source": "C7.1"
+    },
+    {
+      "plated": true,
+      "diameter": 1.2,
+      "points": [
+        [
+          76.0,
+          -46.0
+        ],
+        [
+          76.0,
+          -46.0
+        ]
+      ],
+      "source": "C7.2"
+    },
+    {
+      "plated": false,
+      "diameter": 3.2,
+      "points": [
+        [
+          25.0,
+          -25.0
+        ],
+        [
+          25.0,
+          -25.0
+        ]
+      ],
+      "source": "H1."
+    },
+    {
+      "plated": true,
+      "diameter": 3.96,
+      "points": [
+        [
+          110.65,
+          -108.2
+        ],
+        [
+          110.65,
+          -108.2
+        ]
+      ],
+      "source": "J5.1"
+    },
+    {
+      "plated": true,
+      "diameter": 3.96,
+      "points": [
+        [
+          123.35,
+          -121.2
+        ],
+        [
+          123.35,
+          -121.2
+        ]
+      ],
+      "source": "J5.2"
+    },
+    {
+      "plated": true,
+      "diameter": 3.96,
+      "points": [
+        [
+          139.65,
+          -108.2
+        ],
+        [
+          139.65,
+          -108.2
+        ]
+      ],
+      "source": "J6.1"
+    },
+    {
+      "plated": true,
+      "diameter": 3.96,
+      "points": [
+        [
+          152.35,
+          -121.2
+        ],
+        [
+          152.35,
+          -121.2
+        ]
+      ],
+      "source": "J6.2"
+    },
+    {
+      "plated": true,
+      "diameter": 1.2,
+      "points": [
+        [
+          61.0,
+          -51.0
+        ],
+        [
+          61.0,
+          -51.0
+        ]
+      ],
+      "source": "C6.1"
+    },
+    {
+      "plated": true,
+      "diameter": 1.2,
+      "points": [
+        [
+          61.0,
+          -46.0
+        ],
+        [
+          61.0,
+          -46.0
+        ]
+      ],
+      "source": "C6.2"
+    },
+    {
+      "plated": false,
+      "diameter": 3.2,
+      "points": [
+        [
+          165.0,
+          -25.0
+        ],
+        [
+          165.0,
+          -25.0
+        ]
+      ],
+      "source": "H2."
+    },
+    {
+      "plated": true,
+      "diameter": 1.2,
+      "points": [
+        [
+          149.0,
+          -75.0
+        ],
+        [
+          149.0,
+          -75.0
+        ]
+      ],
+      "source": "C15.1"
+    },
+    {
+      "plated": true,
+      "diameter": 1.2,
+      "points": [
+        [
+          149.0,
+          -70.0
+        ],
+        [
+          149.0,
+          -70.0
+        ]
+      ],
+      "source": "C15.2"
+    },
+    {
+      "plated": false,
+      "diameter": 3.2,
+      "points": [
+        [
+          25.0,
+          -125.0
+        ],
+        [
+          25.0,
+          -125.0
+        ]
+      ],
+      "source": "H3."
+    },
+    {
+      "plated": true,
+      "diameter": 1.2,
+      "points": [
+        [
+          76.0,
+          -36.0
+        ],
+        [
+          76.0,
+          -36.0
+        ]
+      ],
+      "source": "C3.1"
+    },
+    {
+      "plated": true,
+      "diameter": 1.2,
+      "points": [
+        [
+          76.0,
+          -31.0
+        ],
+        [
+          76.0,
+          -31.0
+        ]
+      ],
+      "source": "C3.2"
+    },
+    {
+      "plated": true,
+      "diameter": 3.96,
+      "points": [
+        [
+          77.65,
+          -108.2
+        ],
+        [
+          77.65,
+          -108.2
+        ]
+      ],
+      "source": "J4.1"
+    },
+    {
+      "plated": true,
+      "diameter": 3.96,
+      "points": [
+        [
+          90.35,
+          -121.2
+        ],
+        [
+          90.35,
+          -121.2
+        ]
+      ],
+      "source": "J4.2"
+    },
+    {
+      "plated": true,
+      "diameter": 1.2,
+      "points": [
+        [
+          149.0,
+          -59.0
+        ],
+        [
+          149.0,
+          -59.0
+        ]
+      ],
+      "source": "C14.1"
+    },
+    {
+      "plated": true,
+      "diameter": 1.2,
+      "points": [
+        [
+          149.0,
+          -54.0
+        ],
+        [
+          149.0,
+          -54.0
+        ]
+      ],
+      "source": "C14.2"
+    },
+    {
+      "plated": true,
+      "diameter": 1.2,
+      "points": [
+        [
+          46.0,
+          -36.0
+        ],
+        [
+          46.0,
+          -36.0
+        ]
+      ],
+      "source": "C1.1"
+    },
+    {
+      "plated": true,
+      "diameter": 1.2,
+      "points": [
+        [
+          46.0,
+          -31.0
+        ],
+        [
+          46.0,
+          -31.0
+        ]
+      ],
+      "source": "C1.2"
+    },
+    {
+      "plated": true,
+      "diameter": 3.96,
+      "points": [
+        [
+          44.65,
+          -108.2
+        ],
+        [
+          44.65,
+          -108.2
+        ]
+      ],
+      "source": "J3.1"
+    },
+    {
+      "plated": true,
+      "diameter": 3.96,
+      "points": [
+        [
+          57.35,
+          -121.2
+        ],
+        [
+          57.35,
+          -121.2
+        ]
+      ],
+      "source": "J3.2"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          40.0,
+          -48.0
+        ],
+        [
+          40.0,
+          -48.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          97.0,
+          -48.0
+        ],
+        [
+          97.0,
+          -48.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.3,
+      "points": [
+        [
+          93.75,
+          -62.0
+        ],
+        [
+          93.75,
+          -62.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.3,
+      "points": [
+        [
+          87.5,
+          -62.0
+        ],
+        [
+          87.5,
+          -62.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          83.0,
+          -51.0
+        ],
+        [
+          83.0,
+          -51.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.3,
+      "points": [
+        [
+          95.0,
+          -62.0
+        ],
+        [
+          95.0,
+          -62.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          53.0,
+          -39.0
+        ],
+        [
+          53.0,
+          -39.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          34.0,
+          -58.0
+        ],
+        [
+          34.0,
+          -58.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          97.0,
+          -45.0
+        ],
+        [
+          97.0,
+          -45.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          68.0,
+          -34.0
+        ],
+        [
+          68.0,
+          -34.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.3,
+      "points": [
+        [
+          87.5,
+          -64.5
+        ],
+        [
+          87.5,
+          -64.5
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          83.0,
+          -48.0
+        ],
+        [
+          83.0,
+          -48.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          53.0,
+          -51.0
+        ],
+        [
+          53.0,
+          -51.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          40.0,
+          -39.0
+        ],
+        [
+          40.0,
+          -39.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.3,
+      "points": [
+        [
+          90.0,
+          -62.0
+        ],
+        [
+          90.0,
+          -62.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          97.0,
+          -34.0
+        ],
+        [
+          97.0,
+          -34.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          53.0,
+          -48.0
+        ],
+        [
+          53.0,
+          -48.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          53.0,
+          -34.0
+        ],
+        [
+          53.0,
+          -34.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          83.0,
+          -36.0
+        ],
+        [
+          83.0,
+          -36.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          34.0,
+          -61.0
+        ],
+        [
+          34.0,
+          -61.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.3,
+      "points": [
+        [
+          88.75,
+          -64.5
+        ],
+        [
+          88.75,
+          -64.5
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.3,
+      "points": [
+        [
+          90.0,
+          -64.0
+        ],
+        [
+          90.0,
+          -64.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          68.0,
+          -48.0
+        ],
+        [
+          68.0,
+          -48.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.3,
+      "points": [
+        [
+          94.2,
+          -63.2
+        ],
+        [
+          94.2,
+          -63.2
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.3,
+      "points": [
+        [
+          86.25,
+          -63.25
+        ],
+        [
+          86.25,
+          -63.25
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          83.0,
+          -34.0
+        ],
+        [
+          83.0,
+          -34.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          68.0,
+          -45.0
+        ],
+        [
+          68.0,
+          -45.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          68.0,
+          -51.0
+        ],
+        [
+          68.0,
+          -51.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.3,
+      "points": [
+        [
+          92.3,
+          -65.0
+        ],
+        [
+          92.3,
+          -65.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.3,
+      "points": [
+        [
+          91.5,
+          -64.0
+        ],
+        [
+          91.5,
+          -64.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          97.0,
+          -51.0
+        ],
+        [
+          97.0,
+          -51.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          68.0,
+          -39.0
+        ],
+        [
+          68.0,
+          -39.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.3,
+      "points": [
+        [
+          91.25,
+          -62.0
+        ],
+        [
+          91.25,
+          -62.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          53.0,
+          -45.0
+        ],
+        [
+          53.0,
+          -45.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          40.0,
+          -45.0
+        ],
+        [
+          40.0,
+          -45.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          97.0,
+          -39.0
+        ],
+        [
+          97.0,
+          -39.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.3,
+      "points": [
+        [
+          94.2,
+          -65.0
+        ],
+        [
+          94.2,
+          -65.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          40.0,
+          -34.0
+        ],
+        [
+          40.0,
+          -34.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          40.0,
+          -91.0
+        ],
+        [
+          40.0,
+          -91.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.3,
+      "points": [
+        [
+          86.25,
+          -64.5
+        ],
+        [
+          86.25,
+          -64.5
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          34.0,
+          -64.0
+        ],
+        [
+          34.0,
+          -64.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          83.0,
+          -39.0
+        ],
+        [
+          83.0,
+          -39.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.3,
+      "points": [
+        [
+          90.0,
+          -66.0
+        ],
+        [
+          90.0,
+          -66.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          36.0,
+          -58.0
+        ],
+        [
+          36.0,
+          -58.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.3,
+      "points": [
+        [
+          87.5,
+          -65.75
+        ],
+        [
+          87.5,
+          -65.75
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.3,
+      "points": [
+        [
+          91.5,
+          -66.0
+        ],
+        [
+          91.5,
+          -66.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          97.0,
+          -36.0
+        ],
+        [
+          97.0,
+          -36.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.3,
+      "points": [
+        [
+          88.75,
+          -63.25
+        ],
+        [
+          88.75,
+          -63.25
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          36.0,
+          -64.0
+        ],
+        [
+          36.0,
+          -64.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          40.0,
+          -36.0
+        ],
+        [
+          40.0,
+          -36.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.3,
+      "points": [
+        [
+          92.3,
+          -65.8
+        ],
+        [
+          92.3,
+          -65.8
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.3,
+      "points": [
+        [
+          86.25,
+          -62.0
+        ],
+        [
+          86.25,
+          -62.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.3,
+      "points": [
+        [
+          86.25,
+          -65.75
+        ],
+        [
+          86.25,
+          -65.75
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          68.0,
+          -36.0
+        ],
+        [
+          68.0,
+          -36.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.3,
+      "points": [
+        [
+          94.2,
+          -65.8
+        ],
+        [
+          94.2,
+          -65.8
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          40.0,
+          -51.0
+        ],
+        [
+          40.0,
+          -51.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.3,
+      "points": [
+        [
+          88.75,
+          -65.75
+        ],
+        [
+          88.75,
+          -65.75
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          53.0,
+          -36.0
+        ],
+        [
+          53.0,
+          -36.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.3,
+      "points": [
+        [
+          87.5,
+          -63.25
+        ],
+        [
+          87.5,
+          -63.25
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.3,
+      "points": [
+        [
+          93.0,
+          -66.0
+        ],
+        [
+          93.0,
+          -66.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.3,
+      "points": [
+        [
+          93.0,
+          -64.0
+        ],
+        [
+          93.0,
+          -64.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          36.0,
+          -61.0
+        ],
+        [
+          36.0,
+          -61.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.3,
+      "points": [
+        [
+          88.75,
+          -62.0
+        ],
+        [
+          88.75,
+          -62.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.3,
+      "points": [
+        [
+          92.3,
+          -63.2
+        ],
+        [
+          92.3,
+          -63.2
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          34.0,
+          -55.0
+        ],
+        [
+          34.0,
+          -55.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.3,
+      "points": [
+        [
+          92.5,
+          -62.0
+        ],
+        [
+          92.5,
+          -62.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          83.0,
+          -45.0
+        ],
+        [
+          83.0,
+          -45.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          36.0,
+          -55.0
+        ],
+        [
+          36.0,
+          -55.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          45.0,
+          -43.0
+        ],
+        [
+          45.0,
+          -43.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          111.0,
+          -121.0
+        ],
+        [
+          111.0,
+          -121.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          60.0,
+          -43.0
+        ],
+        [
+          60.0,
+          -43.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.4,
+      "points": [
+        [
+          142.2,
+          -85.025
+        ],
+        [
+          142.2,
+          -85.025
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          75.0,
+          -43.0
+        ],
+        [
+          75.0,
+          -43.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.4,
+      "points": [
+        [
+          93.3,
+          -54.8
+        ],
+        [
+          93.3,
+          -54.8
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.3,
+      "points": [
+        [
+          80.6,
+          -75.0
+        ],
+        [
+          80.6,
+          -75.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.45,
+      "points": [
+        [
+          88.5,
+          -87.5
+        ],
+        [
+          88.5,
+          -87.5
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.4,
+      "points": [
+        [
+          155.8,
+          -85.025
+        ],
+        [
+          155.8,
+          -85.025
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.3,
+      "points": [
+        [
+          79.4,
+          -75.0
+        ],
+        [
+          79.4,
+          -75.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.45,
+      "points": [
+        [
+          90.0,
+          -86.0
+        ],
+        [
+          90.0,
+          -86.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.4,
+      "points": [
+        [
+          75.2,
+          -54.8
+        ],
+        [
+          75.2,
+          -54.8
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          78.0,
+          -121.0
+        ],
+        [
+          78.0,
+          -121.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.4,
+      "points": [
+        [
+          149.8,
+          -85.025
+        ],
+        [
+          149.8,
+          -85.025
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.4,
+      "points": [
+        [
+          80.7,
+          -54.8
+        ],
+        [
+          80.7,
+          -54.8
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          144.0,
+          -121.0
+        ],
+        [
+          144.0,
+          -121.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          60.0,
+          -28.0
+        ],
+        [
+          60.0,
+          -28.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.3,
+      "points": [
+        [
+          66.0,
+          -91.0
+        ],
+        [
+          66.0,
+          -91.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.45,
+      "points": [
+        [
+          88.5,
+          -86.0
+        ],
+        [
+          88.5,
+          -86.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.4,
+      "points": [
+        [
+          148.2,
+          -85.025
+        ],
+        [
+          148.2,
+          -85.025
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.3,
+      "points": [
+        [
+          65.0,
+          -72.0
+        ],
+        [
+          65.0,
+          -72.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.4,
+      "points": [
+        [
+          154.2,
+          -85.025
+        ],
+        [
+          154.2,
+          -85.025
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          111.0,
+          -124.0
+        ],
+        [
+          111.0,
+          -124.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.4,
+      "points": [
+        [
+          160.2,
+          -85.025
+        ],
+        [
+          160.2,
+          -85.025
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.3,
+      "points": [
+        [
+          83.0,
+          -65.0
+        ],
+        [
+          83.0,
+          -65.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.4,
+      "points": [
+        [
+          143.8,
+          -85.025
+        ],
+        [
+          143.8,
+          -85.025
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.4,
+      "points": [
+        [
+          82.3,
+          -54.8
+        ],
+        [
+          82.3,
+          -54.8
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          144.0,
+          -124.0
+        ],
+        [
+          144.0,
+          -124.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.45,
+      "points": [
+        [
+          91.5,
+          -86.0
+        ],
+        [
+          91.5,
+          -86.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.45,
+      "points": [
+        [
+          87.0,
+          -87.5
+        ],
+        [
+          87.0,
+          -87.5
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.3,
+      "points": [
+        [
+          76.0,
+          -90.7
+        ],
+        [
+          76.0,
+          -90.7
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.45,
+      "points": [
+        [
+          87.0,
+          -86.0
+        ],
+        [
+          87.0,
+          -86.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.3,
+      "points": [
+        [
+          69.0,
+          -82.0
+        ],
+        [
+          69.0,
+          -82.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.4,
+      "points": [
+        [
+          87.8,
+          -54.8
+        ],
+        [
+          87.8,
+          -54.8
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.4,
+      "points": [
+        [
+          91.7,
+          -54.8
+        ],
+        [
+          91.7,
+          -54.8
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          90.0,
+          -43.0
+        ],
+        [
+          90.0,
+          -43.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.45,
+      "points": [
+        [
+          85.5,
+          -87.5
+        ],
+        [
+          85.5,
+          -87.5
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.3,
+      "points": [
+        [
+          78.0,
+          -80.0
+        ],
+        [
+          78.0,
+          -80.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          45.0,
+          -28.0
+        ],
+        [
+          45.0,
+          -28.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          90.0,
+          -28.0
+        ],
+        [
+          90.0,
+          -28.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          45.0,
+          -124.0
+        ],
+        [
+          45.0,
+          -124.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          99.025,
+          -81.5
+        ],
+        [
+          99.025,
+          -81.5
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.45,
+      "points": [
+        [
+          85.5,
+          -86.0
+        ],
+        [
+          85.5,
+          -86.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.3,
+      "points": [
+        [
+          85.95,
+          -75.0
+        ],
+        [
+          85.95,
+          -75.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          45.0,
+          -121.0
+        ],
+        [
+          45.0,
+          -121.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.3,
+      "points": [
+        [
+          81.5,
+          -82.5
+        ],
+        [
+          81.5,
+          -82.5
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.4,
+      "points": [
+        [
+          161.8,
+          -85.025
+        ],
+        [
+          161.8,
+          -85.025
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.3,
+      "points": [
+        [
+          80.0,
+          -76.1
+        ],
+        [
+          80.0,
+          -76.1
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.3,
+      "points": [
+        [
+          70.0,
+          -85.0
+        ],
+        [
+          70.0,
+          -85.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.3,
+      "points": [
+        [
+          83.0,
+          -78.5
+        ],
+        [
+          83.0,
+          -78.5
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          75.0,
+          -28.0
+        ],
+        [
+          75.0,
+          -28.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.45,
+      "points": [
+        [
+          90.0,
+          -87.5
+        ],
+        [
+          90.0,
+          -87.5
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.4,
+      "points": [
+        [
+          86.2,
+          -54.8
+        ],
+        [
+          86.2,
+          -54.8
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.4,
+      "points": [
+        [
+          76.8,
+          -54.8
+        ],
+        [
+          76.8,
+          -54.8
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.45,
+      "points": [
+        [
+          91.5,
+          -87.5
+        ],
+        [
+          91.5,
+          -87.5
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          78.0,
+          -124.0
+        ],
+        [
+          78.0,
+          -124.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.3,
+      "points": [
+        [
+          80.0,
+          -73.9
+        ],
+        [
+          80.0,
+          -73.9
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          87.0,
+          -102.5
+        ],
+        [
+          87.0,
+          -102.5
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          140.0,
+          -67.0
+        ],
+        [
+          140.0,
+          -67.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          94.0,
+          -108.0
+        ],
+        [
+          94.0,
+          -108.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          140.0,
+          -83.0
+        ],
+        [
+          140.0,
+          -83.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          157.0,
+          -67.0
+        ],
+        [
+          157.0,
+          -67.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          104.0,
+          -108.0
+        ],
+        [
+          104.0,
+          -108.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          60.0,
+          -108.0
+        ],
+        [
+          60.0,
+          -108.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          159.0,
+          -108.0
+        ],
+        [
+          159.0,
+          -108.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          145.0,
+          -83.0
+        ],
+        [
+          145.0,
+          -83.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          137.0,
+          -102.5
+        ],
+        [
+          137.0,
+          -102.5
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          154.0,
+          -63.0
+        ],
+        [
+          154.0,
+          -63.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          154.0,
+          -83.0
+        ],
+        [
+          154.0,
+          -83.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          159.0,
+          -102.5
+        ],
+        [
+          159.0,
+          -102.5
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          111.0,
+          -102.5
+        ],
+        [
+          111.0,
+          -102.5
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          78.0,
+          -102.5
+        ],
+        [
+          78.0,
+          -102.5
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          134.0,
+          -90.0
+        ],
+        [
+          134.0,
+          -90.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          137.0,
+          -90.0
+        ],
+        [
+          137.0,
+          -90.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          46.0,
+          -102.5
+        ],
+        [
+          46.0,
+          -102.5
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          54.0,
+          -105.0
+        ],
+        [
+          54.0,
+          -105.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          71.0,
+          -102.5
+        ],
+        [
+          71.0,
+          -102.5
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          94.0,
+          -102.5
+        ],
+        [
+          94.0,
+          -102.5
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          87.0,
+          -105.0
+        ],
+        [
+          87.0,
+          -105.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          120.0,
+          -102.5
+        ],
+        [
+          120.0,
+          -102.5
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          153.0,
+          -108.0
+        ],
+        [
+          153.0,
+          -108.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.3,
+      "points": [
+        [
+          74.0,
+          -83.3875
+        ],
+        [
+          74.0,
+          -83.3875
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          87.0,
+          -108.0
+        ],
+        [
+          87.0,
+          -108.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          54.0,
+          -102.5
+        ],
+        [
+          54.0,
+          -102.5
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          137.0,
+          -83.0
+        ],
+        [
+          137.0,
+          -83.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          154.0,
+          -90.0
+        ],
+        [
+          154.0,
+          -90.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          54.0,
+          -108.0
+        ],
+        [
+          54.0,
+          -108.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          150.0,
+          -83.0
+        ],
+        [
+          150.0,
+          -83.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          145.0,
+          -90.0
+        ],
+        [
+          145.0,
+          -90.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          120.0,
+          -108.0
+        ],
+        [
+          120.0,
+          -108.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          157.0,
+          -90.0
+        ],
+        [
+          157.0,
+          -90.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          159.0,
+          -105.0
+        ],
+        [
+          159.0,
+          -105.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          60.0,
+          -102.5
+        ],
+        [
+          60.0,
+          -102.5
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          150.0,
+          -67.0
+        ],
+        [
+          150.0,
+          -67.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          144.0,
+          -105.0
+        ],
+        [
+          144.0,
+          -105.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          144.0,
+          -102.5
+        ],
+        [
+          144.0,
+          -102.5
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          157.0,
+          -63.0
+        ],
+        [
+          157.0,
+          -63.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          94.0,
+          -105.0
+        ],
+        [
+          94.0,
+          -105.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          71.0,
+          -105.0
+        ],
+        [
+          71.0,
+          -105.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          41.0,
+          -102.5
+        ],
+        [
+          41.0,
+          -102.5
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          140.0,
+          -90.0
+        ],
+        [
+          140.0,
+          -90.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          71.0,
+          -108.0
+        ],
+        [
+          71.0,
+          -108.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          127.0,
+          -105.0
+        ],
+        [
+          127.0,
+          -105.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          120.0,
+          -105.0
+        ],
+        [
+          120.0,
+          -105.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          150.0,
+          -63.0
+        ],
+        [
+          150.0,
+          -63.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          104.0,
+          -102.5
+        ],
+        [
+          104.0,
+          -102.5
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          134.0,
+          -83.0
+        ],
+        [
+          134.0,
+          -83.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          157.0,
+          -83.0
+        ],
+        [
+          157.0,
+          -83.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          104.0,
+          -105.0
+        ],
+        [
+          104.0,
+          -105.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          145.0,
+          -63.0
+        ],
+        [
+          145.0,
+          -63.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          60.0,
+          -105.0
+        ],
+        [
+          60.0,
+          -105.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          154.0,
+          -67.0
+        ],
+        [
+          154.0,
+          -67.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          131.0,
+          -83.0
+        ],
+        [
+          131.0,
+          -83.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          140.0,
+          -63.0
+        ],
+        [
+          140.0,
+          -63.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          127.0,
+          -102.5
+        ],
+        [
+          127.0,
+          -102.5
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          150.0,
+          -90.0
+        ],
+        [
+          150.0,
+          -90.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          127.0,
+          -108.0
+        ],
+        [
+          127.0,
+          -108.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          131.0,
+          -90.0
+        ],
+        [
+          131.0,
+          -90.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          145.0,
+          -67.0
+        ],
+        [
+          145.0,
+          -67.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          153.0,
+          -102.5
+        ],
+        [
+          153.0,
+          -102.5
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          144.0,
+          -108.0
+        ],
+        [
+          144.0,
+          -108.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          153.0,
+          -105.0
+        ],
+        [
+          153.0,
+          -105.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.4,
+      "points": [
+        [
+          89.5,
+          -79.8
+        ],
+        [
+          89.5,
+          -79.8
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.4,
+      "points": [
+        [
+          86.5,
+          -79.8
+        ],
+        [
+          86.5,
+          -79.8
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.4,
+      "points": [
+        [
+          89.9,
+          -71.2
+        ],
+        [
+          89.9,
+          -71.2
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.4,
+      "points": [
+        [
+          89.9,
+          -72.5
+        ],
+        [
+          89.9,
+          -72.5
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.4,
+      "points": [
+        [
+          89.9,
+          -73.8
+        ],
+        [
+          89.9,
+          -73.8
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.4,
+      "points": [
+        [
+          88.0,
+          -79.8
+        ],
+        [
+          88.0,
+          -79.8
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          88.1,
+          -76.4
+        ],
+        [
+          88.1,
+          -76.4
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          91.23,
+          -75.5
+        ],
+        [
+          91.23,
+          -75.5
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.3,
+      "points": [
+        [
+          98.0,
+          -70.25
+        ],
+        [
+          98.0,
+          -70.25
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.3,
+      "points": [
+        [
+          98.0,
+          -75.25
+        ],
+        [
+          98.0,
+          -75.25
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.3,
+      "points": [
+        [
+          94.1,
+          -73.0
+        ],
+        [
+          94.1,
+          -73.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.3,
+      "points": [
+        [
+          98.0,
+          -74.0
+        ],
+        [
+          98.0,
+          -74.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.3,
+      "points": [
+        [
+          94.1,
+          -71.6
+        ],
+        [
+          94.1,
+          -71.6
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.3,
+      "points": [
+        [
+          95.4,
+          -74.4
+        ],
+        [
+          95.4,
+          -74.4
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.3,
+      "points": [
+        [
+          99.25,
+          -74.0
+        ],
+        [
+          99.25,
+          -74.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.3,
+      "points": [
+        [
+          96.75,
+          -69.0
+        ],
+        [
+          96.75,
+          -69.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          86.5,
+          -69.8
+        ],
+        [
+          86.5,
+          -69.8
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          99.0,
+          -65.5
+        ],
+        [
+          99.0,
+          -65.5
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.3,
+      "points": [
+        [
+          95.4,
+          -73.0
+        ],
+        [
+          95.4,
+          -73.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.3,
+      "points": [
+        [
+          98.0,
+          -72.75
+        ],
+        [
+          98.0,
+          -72.75
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.3,
+      "points": [
+        [
+          95.4,
+          -71.6
+        ],
+        [
+          95.4,
+          -71.6
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.3,
+      "points": [
+        [
+          96.75,
+          -70.25
+        ],
+        [
+          96.75,
+          -70.25
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.3,
+      "points": [
+        [
+          98.0,
+          -69.0
+        ],
+        [
+          98.0,
+          -69.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.3,
+      "points": [
+        [
+          94.1,
+          -74.4
+        ],
+        [
+          94.1,
+          -74.4
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.3,
+      "points": [
+        [
+          59.0,
+          -77.0
+        ],
+        [
+          59.0,
+          -77.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.3,
+      "points": [
+        [
+          77.0,
+          -84.0875
+        ],
+        [
+          77.0,
+          -84.0875
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.3,
+      "points": [
+        [
+          84.5,
+          -76.25
+        ],
+        [
+          84.5,
+          -76.25
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          100.8,
+          -60.0
+        ],
+        [
+          100.8,
+          -60.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.5,
+      "points": [
+        [
+          83.3,
+          -71.7
+        ],
+        [
+          83.3,
+          -71.7
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.3,
+      "points": [
+        [
+          70.0,
+          -76.0
+        ],
+        [
+          70.0,
+          -76.0
+        ]
+      ],
+      "source": "via"
+    },
+    {
+      "plated": true,
+      "diameter": 0.3,
+      "points": [
+        [
+          74.0,
+          -72.9
+        ],
+        [
+          74.0,
+          -72.9
+        ]
+      ],
+      "source": "via"
+    }
+  ],
+  "parts": [
+    {
+      "ref": "C10",
+      "value": "4.7u / 100V",
+      "xy": [
+        81.5,
+        -58.0
+      ],
+      "rotation": 90.0,
+      "side": "top"
+    },
+    {
+      "ref": "R11",
+      "value": "2.2k",
+      "xy": [
+        72.0,
+        -84.0
+      ],
+      "rotation": -90.0,
+      "side": "top"
+    },
+    {
+      "ref": "TP4",
+      "value": "EN",
+      "xy": [
+        60.0,
+        -66.0
+      ],
+      "rotation": 0.0,
+      "side": "top"
+    },
+    {
+      "ref": "R12",
+      "value": "1.33k",
+      "xy": [
+        82.0,
+        -80.0
+      ],
+      "rotation": 0.0,
+      "side": "top"
+    },
+    {
+      "ref": "R2",
+      "value": "1R",
+      "xy": [
+        87.0,
+        -77.0
+      ],
+      "rotation": 0.0,
+      "side": "top"
+    },
+    {
+      "ref": "C9",
+      "value": "4.7u / 100V",
+      "xy": [
+        76.0,
+        -58.0
+      ],
+      "rotation": 90.0,
+      "side": "top"
+    },
+    {
+      "ref": "C13",
+      "value": "470u / 50V",
+      "xy": [
+        149.0,
+        -43.0
+      ],
+      "rotation": 90.0,
+      "side": "top"
+    },
+    {
+      "ref": "C24",
+      "value": "47n / C0G",
+      "xy": [
+        70.0,
+        -79.0
+      ],
+      "rotation": 180.0,
+      "side": "top"
+    },
+    {
+      "ref": "J2",
+      "value": "XT60PW-M",
+      "xy": [
+        34.0,
+        -77.0
+      ],
+      "rotation": 90.0,
+      "side": "top"
+    },
+    {
+      "ref": "R5",
+      "value": "7.32k",
+      "xy": [
+        75.0,
+        -69.0
+      ],
+      "rotation": -90.0,
+      "side": "top"
+    },
+    {
+      "ref": "H4",
+      "value": "M3 clearance",
+      "xy": [
+        165.0,
+        -125.0
+      ],
+      "rotation": 0.0,
+      "side": "top"
+    },
+    {
+      "ref": "L1",
+      "value": "15u / CPRX3231L",
+      "xy": [
+        124.0,
+        -75.0
+      ],
+      "rotation": 0.0,
+      "side": "top"
+    },
+    {
+      "ref": "C23",
+      "value": "470n / 50V",
+      "xy": [
+        85.0,
+        -71.0
+      ],
+      "rotation": 90.0,
+      "side": "top"
+    },
+    {
+      "ref": "C4",
+      "value": "220u / 100V",
+      "xy": [
+        91.0,
+        -36.0
+      ],
+      "rotation": 90.0,
+      "side": "top"
+    },
+    {
+      "ref": "C18",
+      "value": "4.7u / 50V",
+      "xy": [
+        155.0,
+        -88.0
+      ],
+      "rotation": 90.0,
+      "side": "top"
+    },
+    {
+      "ref": "TP2",
+      "value": "GND",
+      "xy": [
+        47.0,
+        -91.0
+      ],
+      "rotation": 0.0,
+      "side": "top"
+    },
+    {
+      "ref": "C8",
+      "value": "220u / 100V",
+      "xy": [
+        91.0,
+        -51.0
+      ],
+      "rotation": 90.0,
+      "side": "top"
+    },
+    {
+      "ref": "R6",
+      "value": "100k",
+      "xy": [
+        72.0,
+        -73.0
+      ],
+      "rotation": 90.0,
+      "side": "top"
+    },
+    {
+      "ref": "J1",
+      "value": "XT60PW-M",
+      "xy": [
+        34.0,
+        -44.0
+      ],
+      "rotation": 90.0,
+      "side": "top"
+    },
+    {
+      "ref": "C5",
+      "value": "220u / 100V",
+      "xy": [
+        46.0,
+        -51.0
+      ],
+      "rotation": 90.0,
+      "side": "top"
+    },
+    {
+      "ref": "C2",
+      "value": "220u / 100V",
+      "xy": [
+        61.0,
+        -36.0
+      ],
+      "rotation": 90.0,
+      "side": "top"
+    },
+    {
+      "ref": "C12",
+      "value": "4.7u / 100V",
+      "xy": [
+        92.5,
+        -58.0
+      ],
+      "rotation": 90.0,
+      "side": "top"
+    },
+    {
+      "ref": "C22",
+      "value": "2.2u / 25V",
+      "xy": [
+        85.0,
+        -75.0
+      ],
+      "rotation": 0.0,
+      "side": "top"
+    },
+    {
+      "ref": "R1",
+      "value": "1R",
+      "xy": [
+        99.5,
+        -60.0
+      ],
+      "rotation": 180.0,
+      "side": "top"
+    },
+    {
+      "ref": "C7",
+      "value": "220u / 100V",
+      "xy": [
+        76.0,
+        -51.0
+      ],
+      "rotation": 90.0,
+      "side": "top"
+    },
+    {
+      "ref": "R8",
+      "value": "34.8k / 0.01%",
+      "xy": [
+        67.0,
+        -84.0
+      ],
+      "rotation": -90.0,
+      "side": "top"
+    },
+    {
+      "ref": "H1",
+      "value": "M3 clearance",
+      "xy": [
+        25.0,
+        -25.0
+      ],
+      "rotation": 0.0,
+      "side": "top"
+    },
+    {
+      "ref": "J5",
+      "value": "0389690002",
+      "xy": [
+        117.0,
+        -116.0
+      ],
+      "rotation": 0.0,
+      "side": "top"
+    },
+    {
+      "ref": "TP1",
+      "value": "VIN",
+      "xy": [
+        40.0,
+        -91.0
+      ],
+      "rotation": 0.0,
+      "side": "top"
+    },
+    {
+      "ref": "C21",
+      "value": "2.2u / 25V",
+      "xy": [
+        72.0,
+        -76.0
+      ],
+      "rotation": 0.0,
+      "side": "top"
+    },
+    {
+      "ref": "J6",
+      "value": "0389690002",
+      "xy": [
+        146.0,
+        -116.0
+      ],
+      "rotation": 0.0,
+      "side": "top"
+    },
+    {
+      "ref": "C6",
+      "value": "220u / 100V",
+      "xy": [
+        61.0,
+        -51.0
+      ],
+      "rotation": 90.0,
+      "side": "top"
+    },
+    {
+      "ref": "R4",
+      "value": "191k",
+      "xy": [
+        75.0,
+        -65.0
+      ],
+      "rotation": -90.0,
+      "side": "top"
+    },
+    {
+      "ref": "U1",
+      "value": "LM5146RGYR",
+      "xy": [
+        80.0,
+        -75.0
+      ],
+      "rotation": 0.0,
+      "side": "top"
+    },
+    {
+      "ref": "H2",
+      "value": "M3 clearance",
+      "xy": [
+        165.0,
+        -25.0
+      ],
+      "rotation": 0.0,
+      "side": "top"
+    },
+    {
+      "ref": "C25",
+      "value": "100p / C0G",
+      "xy": [
+        75.0,
+        -82.0
+      ],
+      "rotation": 0.0,
+      "side": "top"
+    },
+    {
+      "ref": "R3",
+      "value": "47R / pulse",
+      "xy": [
+        80.75,
+        -67.0
+      ],
+      "rotation": -90.0,
+      "side": "top"
+    },
+    {
+      "ref": "Q1",
+      "value": "CSD19532Q5BT",
+      "xy": [
+        94.0,
+        -65.0
+      ],
+      "rotation": 180.0,
+      "side": "top"
+    },
+    {
+      "ref": "R15",
+      "value": "20k",
+      "xy": [
+        77.0,
+        -85.0
+      ],
+      "rotation": -90.0,
+      "side": "top"
+    },
+    {
+      "ref": "C16",
+      "value": "4.7u / 50V",
+      "xy": [
+        143.0,
+        -88.0
+      ],
+      "rotation": 90.0,
+      "side": "top"
+    },
+    {
+      "ref": "C19",
+      "value": "4.7u / 50V",
+      "xy": [
+        161.0,
+        -88.0
+      ],
+      "rotation": 90.0,
+      "side": "top"
+    },
+    {
+      "ref": "C15",
+      "value": "470u / 50V",
+      "xy": [
+        149.0,
+        -75.0
+      ],
+      "rotation": 90.0,
+      "side": "top"
+    },
+    {
+      "ref": "H3",
+      "value": "M3 clearance",
+      "xy": [
+        25.0,
+        -125.0
+      ],
+      "rotation": 0.0,
+      "side": "top"
+    },
+    {
+      "ref": "C3",
+      "value": "220u / 100V",
+      "xy": [
+        76.0,
+        -36.0
+      ],
+      "rotation": 90.0,
+      "side": "top"
+    },
+    {
+      "ref": "J4",
+      "value": "0389690002",
+      "xy": [
+        84.0,
+        -116.0
+      ],
+      "rotation": 0.0,
+      "side": "top"
+    },
+    {
+      "ref": "Q2",
+      "value": "CSD19532Q5BT",
+      "xy": [
+        94.0,
+        -73.0
+      ],
+      "rotation": 0.0,
+      "side": "top"
+    },
+    {
+      "ref": "R16",
+      "value": "DNP / tune",
+      "xy": [
+        100.5,
+        -75.5
+      ],
+      "rotation": 0.0,
+      "side": "top"
+    },
+    {
+      "ref": "R13",
+      "value": "100k",
+      "xy": [
+        99.5,
+        -62.5
+      ],
+      "rotation": 0.0,
+      "side": "top"
+    },
+    {
+      "ref": "TP3",
+      "value": "24V",
+      "xy": [
+        145.0,
+        -94.0
+      ],
+      "rotation": 0.0,
+      "side": "top"
+    },
+    {
+      "ref": "TP5",
+      "value": "VCC",
+      "xy": [
+        59.0,
+        -77.0
+      ],
+      "rotation": 0.0,
+      "side": "top"
+    },
+    {
+      "ref": "C26",
+      "value": "3.3n / C0G",
+      "xy": [
+        72.0,
+        -88.0
+      ],
+      "rotation": -90.0,
+      "side": "top"
+    },
+    {
+      "ref": "C20",
+      "value": "100n / 100V",
+      "xy": [
+        81.0,
+        -70.0
+      ],
+      "rotation": 0.0,
+      "side": "top"
+    },
+    {
+      "ref": "R10",
+      "value": "8.2k",
+      "xy": [
+        74.0,
+        -79.0
+      ],
+      "rotation": 180.0,
+      "side": "top"
+    },
+    {
+      "ref": "R9",
+      "value": "1.2k / 0.01%",
+      "xy": [
+        67.0,
+        -88.0
+      ],
+      "rotation": -90.0,
+      "side": "top"
+    },
+    {
+      "ref": "C11",
+      "value": "4.7u / 100V",
+      "xy": [
+        87.0,
+        -58.0
+      ],
+      "rotation": 90.0,
+      "side": "top"
+    },
+    {
+      "ref": "R14",
+      "value": "100k",
+      "xy": [
+        94.0,
+        -79.0
+      ],
+      "rotation": 180.0,
+      "side": "top"
+    },
+    {
+      "ref": "C17",
+      "value": "4.7u / 50V",
+      "xy": [
+        149.0,
+        -88.0
+      ],
+      "rotation": 90.0,
+      "side": "top"
+    },
+    {
+      "ref": "R7",
+      "value": "5m / 3W",
+      "xy": [
+        88.0,
+        -83.0
+      ],
+      "rotation": -90.0,
+      "side": "top"
+    },
+    {
+      "ref": "C14",
+      "value": "470u / 50V",
+      "xy": [
+        149.0,
+        -59.0
+      ],
+      "rotation": 90.0,
+      "side": "top"
+    },
+    {
+      "ref": "C1",
+      "value": "220u / 100V",
+      "xy": [
+        46.0,
+        -36.0
+      ],
+      "rotation": 90.0,
+      "side": "top"
+    },
+    {
+      "ref": "C27",
+      "value": "DNP / >=100V",
+      "xy": [
+        100.5,
+        -79.5
+      ],
+      "rotation": 180.0,
+      "side": "top"
+    },
+    {
+      "ref": "J3",
+      "value": "0389690002",
+      "xy": [
+        51.0,
+        -116.0
+      ],
+      "rotation": 0.0,
+      "side": "top"
+    },
+    {
+      "ref": "TP6",
+      "value": "PGOOD",
+      "xy": [
+        60.0,
+        -87.0
+      ],
+      "rotation": 0.0,
+      "side": "top"
+    }
+  ],
+  "fill_vias": [
+    {
+      "x_mm": 59.0,
+      "y_mm": -77.0,
+      "hole_mm": 0.3,
+      "net": "/VCC",
+      "near_pad": "TP5.1"
+    },
+    {
+      "x_mm": 77.0,
+      "y_mm": -84.0875,
+      "hole_mm": 0.3,
+      "net": "/VCC",
+      "near_pad": "R15.1"
+    },
+    {
+      "x_mm": 79.4,
+      "y_mm": -75.0,
+      "hole_mm": 0.3,
+      "net": "/GND",
+      "near_pad": "U1.21"
+    },
+    {
+      "x_mm": 80.0,
+      "y_mm": -76.1,
+      "hole_mm": 0.3,
+      "net": "/GND",
+      "near_pad": "U1.21"
+    },
+    {
+      "x_mm": 80.0,
+      "y_mm": -73.9,
+      "hole_mm": 0.3,
+      "net": "/GND",
+      "near_pad": "U1.21"
+    },
+    {
+      "x_mm": 80.6,
+      "y_mm": -75.0,
+      "hole_mm": 0.3,
+      "net": "/GND",
+      "near_pad": "U1.21"
+    },
+    {
+      "x_mm": 85.95,
+      "y_mm": -75.0,
+      "hole_mm": 0.3,
+      "net": "/GND",
+      "near_pad": "C22.2"
+    },
+    {
+      "x_mm": 91.5,
+      "y_mm": -66.0,
+      "hole_mm": 0.3,
+      "net": "/VIN",
+      "near_pad": "Q1.5"
+    },
+    {
+      "x_mm": 91.5,
+      "y_mm": -64.0,
+      "hole_mm": 0.3,
+      "net": "/VIN",
+      "near_pad": "Q1.5"
+    },
+    {
+      "x_mm": 92.3,
+      "y_mm": -65.8,
+      "hole_mm": 0.3,
+      "net": "/VIN",
+      "near_pad": "Q1.5"
+    },
+    {
+      "x_mm": 92.3,
+      "y_mm": -65.0,
+      "hole_mm": 0.3,
+      "net": "/VIN",
+      "near_pad": "Q1.5"
+    },
+    {
+      "x_mm": 92.3,
+      "y_mm": -63.2,
+      "hole_mm": 0.3,
+      "net": "/VIN",
+      "near_pad": "Q1.5"
+    },
+    {
+      "x_mm": 93.0,
+      "y_mm": -66.0,
+      "hole_mm": 0.3,
+      "net": "/VIN",
+      "near_pad": "Q1.5"
+    },
+    {
+      "x_mm": 93.0,
+      "y_mm": -64.0,
+      "hole_mm": 0.3,
+      "net": "/VIN",
+      "near_pad": "Q1.5"
+    },
+    {
+      "x_mm": 94.1,
+      "y_mm": -74.4,
+      "hole_mm": 0.3,
+      "net": "/SW",
+      "near_pad": "Q2.5"
+    },
+    {
+      "x_mm": 94.1,
+      "y_mm": -73.0,
+      "hole_mm": 0.3,
+      "net": "/SW",
+      "near_pad": "Q2.5"
+    },
+    {
+      "x_mm": 94.1,
+      "y_mm": -71.6,
+      "hole_mm": 0.3,
+      "net": "/SW",
+      "near_pad": "Q2.5"
+    },
+    {
+      "x_mm": 94.2,
+      "y_mm": -65.8,
+      "hole_mm": 0.3,
+      "net": "/VIN",
+      "near_pad": "Q1.5"
+    },
+    {
+      "x_mm": 94.2,
+      "y_mm": -65.0,
+      "hole_mm": 0.3,
+      "net": "/VIN",
+      "near_pad": "Q1.5"
+    },
+    {
+      "x_mm": 94.2,
+      "y_mm": -63.2,
+      "hole_mm": 0.3,
+      "net": "/VIN",
+      "near_pad": "Q1.5"
+    },
+    {
+      "x_mm": 95.4,
+      "y_mm": -74.4,
+      "hole_mm": 0.3,
+      "net": "/SW",
+      "near_pad": "Q2.5"
+    },
+    {
+      "x_mm": 95.4,
+      "y_mm": -73.0,
+      "hole_mm": 0.3,
+      "net": "/SW",
+      "near_pad": "Q2.5"
+    },
+    {
+      "x_mm": 95.4,
+      "y_mm": -71.6,
+      "hole_mm": 0.3,
+      "net": "/SW",
+      "near_pad": "Q2.5"
+    },
+    {
+      "x_mm": 86.5,
+      "y_mm": -79.8,
+      "hole_mm": 0.4,
+      "net": "/SENSE",
+      "near_pad": "R7.1"
+    },
+    {
+      "x_mm": 88.0,
+      "y_mm": -79.8,
+      "hole_mm": 0.4,
+      "net": "/SENSE",
+      "near_pad": "R7.1"
+    },
+    {
+      "x_mm": 89.5,
+      "y_mm": -79.8,
+      "hole_mm": 0.4,
+      "net": "/SENSE",
+      "near_pad": "R7.1"
+    },
+    {
+      "x_mm": 87.0,
+      "y_mm": -87.5,
+      "hole_mm": 0.45,
+      "net": "/GND",
+      "near_pad": "R7.2"
+    },
+    {
+      "x_mm": 87.0,
+      "y_mm": -86.0,
+      "hole_mm": 0.45,
+      "net": "/GND",
+      "near_pad": "R7.2"
+    },
+    {
+      "x_mm": 88.5,
+      "y_mm": -87.5,
+      "hole_mm": 0.45,
+      "net": "/GND",
+      "near_pad": "R7.2"
+    },
+    {
+      "x_mm": 88.5,
+      "y_mm": -86.0,
+      "hole_mm": 0.45,
+      "net": "/GND",
+      "near_pad": "R7.2"
+    },
+    {
+      "x_mm": 90.0,
+      "y_mm": -87.5,
+      "hole_mm": 0.45,
+      "net": "/GND",
+      "near_pad": "R7.2"
+    },
+    {
+      "x_mm": 90.0,
+      "y_mm": -86.0,
+      "hole_mm": 0.45,
+      "net": "/GND",
+      "near_pad": "R7.2"
+    },
+    {
+      "x_mm": 40.0,
+      "y_mm": -91.0,
+      "hole_mm": 0.5,
+      "net": "/VIN",
+      "near_pad": "TP1.1"
+    },
+    {
+      "x_mm": 88.1,
+      "y_mm": -76.4,
+      "hole_mm": 0.5,
+      "net": "/LGATE",
+      "near_pad": "R2.2"
+    },
+    {
+      "x_mm": 91.23,
+      "y_mm": -75.5,
+      "hole_mm": 0.5,
+      "net": "/LGATE",
+      "near_pad": "Q2.4"
+    },
+    {
+      "x_mm": 100.8,
+      "y_mm": -60.0,
+      "hole_mm": 0.5,
+      "net": "/HO",
+      "near_pad": "R1.1"
+    },
+    {
+      "x_mm": 150.0,
+      "y_mm": -90.0,
+      "hole_mm": 0.5,
+      "net": "/24V",
+      "near_pad": "C17.1"
+    },
+    {
+      "x_mm": 154.0,
+      "y_mm": -90.0,
+      "hole_mm": 0.5,
+      "net": "/24V",
+      "near_pad": "C18.1"
+    }
+  ]
+}

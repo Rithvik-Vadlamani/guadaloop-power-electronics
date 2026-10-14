@@ -1,0 +1,7 @@
+(version 1)
+(rule "HV clearance away from fine-pitch controller"
+ (condition "(A.NetName == '/SNUB' || A.NetName == '/VIN' || A.NetName == '/SW' || A.NetName == '/HO' || A.NetName == '/HGATE' || A.NetName == '/BST' || A.NetName == '/VIN_IC') && !(A.memberOfFootprint('U1') || B.memberOfFootprint('U1'))")
+ (constraint clearance (min 0.5mm)))
+(rule "Fine pitch RGY pad breakout"
+ (condition "A.memberOfFootprint('U1') || B.memberOfFootprint('U1') || (A.enclosedByArea('U1_BREAKOUT') && B.enclosedByArea('U1_BREAKOUT'))")
+ (constraint clearance (min 0.2mm)))
